@@ -1,0 +1,19 @@
+May 08, 2024
+
+Governor Lisa D. Cook
+
+At the Brookings Institution, Washington, D.C.
+
+Thank you, David. And thank you to the Brookings Institution for hosting me today. I am especially grateful to return to the place where, in my first job as an aspiring economist, I was a research assistant for Alice Rivlin over three decades ago.
+
+Today, I would like to talk about the Board's work in pursuit of financial stability, which is critical to the well-being of households, firms, and the broader economy. 1 Following the financial crisis of 2007â09, a broad set of reforms were put in place to bolster financial stability. To ensure an ongoing focus on that area, the Board established its Committee on Financial Stability as a venue for Governors to discuss related developments and policy issues. I recently became the chair of this committee and will share with you my current views on financial stability and touch on a couple of emerging issues. Enhancing the public's understanding of our work on financial stability is important for the transparency and accountability of our efforts. That is why we communicate our financial stability work prominently in our Financial Stability Report, which was most recently published last month and provides more detail on some of the developments I will review today. 2
+
+Financial Stability at the Federal Reserve As the U.S. and global financial system continues to grow and evolve in complexity, the Fed's work on financial stability only becomes more important. A stable and resilient financial system is essential for the Federal Reserve to achieve its dual mandate of maximum-employment and price-stability. Our financial stability work also informs our approach and priorities to the supervision and regulation of banking organizations, our coordination with domestic regulatory agencies, and our engagements with international bodies such as the Financial Stability Board.
+
+Financial Stability Framework When people think about financial stability, they most often recall periods affected by adverse shocksâthat is, severe, unexpected events that cause widespread disruptions to the financial markets and, in turn, the broader economy. The challenge is that such events are hard to predict.
+
+Therefore, the Fed's financial stability framework focuses on understanding what makes the financial system vulnerable to a whole range of potential shocks and how those vulnerabilities might amplify the effects of those shocks, not on predicting specific adverse events.
+
+Review of Vulnerabilities Based on extensive research and experience, we routinely monitor four broad sets of vulnerabilities to the financial system that could amplify shocks: household and business leverage; the use of leverage by financial institutions; the degree of maturity and liquidity transformation in the financial system, or, in plain English, "funding risk"; and asset valuations and risk appetite.
+
+Household and Firm Leverage To lay out how I am currently thinking about each of these vulnerabilities, I will start with household and firm leverage. A simple measure of whether households or firms are borrowing too much is to compare their debt to the level of GDP, as shown in figure 1 . Based on this measure, household borrowing is lower than it has been in many years. Our analysis then dives deeper, including detailed assessments of mortgage borrowing and consumer credit, and this deeper assessment supports the view of a resilient household sector. Nonetheless, we also are attuned to possible changes in this assessment. For example, I am watching closely the rising delinquency rates on auto loans and credit card debtâboth of which partially reflect a normalization from recent lowsâbecause they imply increasing household borrower stress, especially among some lower- and moderate-income households.

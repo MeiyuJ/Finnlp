@@ -1,0 +1,2732 @@
+[
+  {
+    "year": "2018",
+    "date": "2018-12-07",
+    "title": "Assessing Financial Stability over the Cycle",
+    "speaker": "Governor Lael Brainard",
+    "location": "An official website of the United States Government",
+    "url": "https://www.federalreserve.gov/newsevents/speech/brainard20181207a.htm",
+    "filepath": "./data/fed_speeches\\2018\\20181207_Assessing_Financial_Stability_.txt",
+    "word_count": 3625
+  },
+  {
+    "year": "2018",
+    "date": "2018-12-06",
+    "title": "Welcoming Remarks",
+    "speaker": "Chairman Jerome H. Powell",
+    "location": "An official website of the United States Government",
+    "url": "https://www.federalreserve.gov/newsevents/speech/powell20181206a.htm",
+    "filepath": "./data/fed_speeches\\2018\\20181206_Welcoming_Remarks.txt",
+    "word_count": 1144
+  },
+  {
+    "year": "2018",
+    "date": "2018-12-05",
+    "title": "Banks as Vital Infrastructure for Rural Communities of the West",
+    "speaker": "Vice Chairman for Supervision Randal K. Quarles",
+    "location": "An official website of the United States Government",
+    "url": "https://www.federalreserve.gov/newsevents/speech/quarles20181205a.htm",
+    "filepath": "./data/fed_speeches\\2018\\20181205_Banks_as_Vital_Infrastructure_.txt",
+    "word_count": 3265
+  },
+  {
+    "year": "2018",
+    "date": "2018-12-03",
+    "title": "Celebrating Excellence in Community Development",
+    "speaker": "Chairman Jerome H. Powell",
+    "location": "An official website of the United States Government",
+    "url": "https://www.federalreserve.gov/newsevents/speech/powell20181203a.htm",
+    "filepath": "./data/fed_speeches\\2018\\20181203_Celebrating_Excellence_in_Comm.txt",
+    "word_count": 829
+  },
+  {
+    "year": "2018",
+    "date": "2018-12-03",
+    "title": "Celebrating Excellence in Community Development",
+    "speaker": "Governor Lael Brainard",
+    "location": "An official website of the United States Government",
+    "url": "https://www.federalreserve.gov/newsevents/speech/brainard20181203b.htm",
+    "filepath": "./data/fed_speeches\\2018\\20181203_Celebrating_Excellence_in_Comm.txt",
+    "word_count": 894
+  },
+  {
+    "year": "2018",
+    "date": "2018-12-03",
+    "title": "The Structure of the Treasury Market:  What Are We Learning?",
+    "speaker": "Governor Lael Brainard",
+    "location": "An official website of the United States Government",
+    "url": "https://www.federalreserve.gov/newsevents/speech/brainard20181203a.htm",
+    "filepath": "./data/fed_speeches\\2018\\20181203_The_Structure_of_the_Treasury_.txt",
+    "word_count": 3081
+  },
+  {
+    "year": "2018",
+    "date": "2018-11-28",
+    "title": "The Federal Reserve's Framework for Monitoring Financial Stability",
+    "speaker": "Chairman Jerome H. Powell",
+    "location": "An official website of the United States Government",
+    "url": "https://www.federalreserve.gov/newsevents/speech/powell20181128a.htm",
+    "filepath": "./data/fed_speeches\\2018\\20181128_The_Federal_Reserve_s_Framewor.txt",
+    "word_count": 1451
+  },
+  {
+    "year": "2018",
+    "date": "2018-11-27",
+    "title": "Data Dependence and U.S. Monetary Policy",
+    "speaker": "Vice Chairman Richard H. Clarida",
+    "location": "An official website of the United States Government",
+    "url": "https://www.federalreserve.gov/newsevents/speech/clarida20181127a.htm",
+    "filepath": "./data/fed_speeches\\2018\\20181127_Data_Dependence_and_U_S__Monet.txt",
+    "word_count": 1990
+  },
+  {
+    "year": "2018",
+    "date": "2018-11-16",
+    "title": "Beginning Stress Testing\u00e2\u0080\u0099s New Chapter",
+    "speaker": "Vice Chairman for Supervision Randal K. Quarles",
+    "location": "An official website of the United States Government",
+    "url": "https://www.federalreserve.gov/newsevents/speech/quarles20181116a.htm",
+    "filepath": "./data/fed_speeches\\2018\\20181116_Beginning_Stress_Testing\u00e2__s_N.txt",
+    "word_count": 1591
+  },
+  {
+    "year": "2018",
+    "date": "2018-11-13",
+    "title": "What Are We Learning about Artificial Intelligence in Financial Services?",
+    "speaker": "Governor Lael Brainard",
+    "location": "An official website of the United States Government",
+    "url": "https://www.federalreserve.gov/newsevents/speech/brainard20181113a.htm",
+    "filepath": "./data/fed_speeches\\2018\\20181113_What_Are_We_Learning_about_Art.txt",
+    "word_count": 3015
+  },
+  {
+    "year": "2018",
+    "date": "2018-11-09",
+    "title": "A New Chapter in Stress Testing",
+    "speaker": "Vice Chairman for Supervision Randal K. Quarles",
+    "location": "An official website of the United States Government",
+    "url": "https://www.federalreserve.gov/newsevents/speech/quarles20181109a.htm",
+    "filepath": "./data/fed_speeches\\2018\\20181109_A_New_Chapter_in_Stress_Testin.txt",
+    "word_count": 3388
+  },
+  {
+    "year": "2018",
+    "date": "2018-10-25",
+    "title": "Outlook for the U.S. Economy and Monetary Policy",
+    "speaker": "Vice Chairman Richard H. Clarida",
+    "location": "An official website of the United States Government",
+    "url": "https://www.federalreserve.gov/newsevents/speech/clarida20181025a.htm",
+    "filepath": "./data/fed_speeches\\2018\\20181025_Outlook_for_the_U_S__Economy_a.txt",
+    "word_count": 2321
+  },
+  {
+    "year": "2018",
+    "date": "2018-10-18",
+    "title": "Don\u00e2\u0080\u0099t Chase the Needles: An Optimistic Assessment of the Economic Outlook and Monetary Policy",
+    "speaker": "Vice Chairman for Supervision Randal K. Quarles",
+    "location": "An official website of the United States Government",
+    "url": "https://www.federalreserve.gov/newsevents/speech/quarles20181018a.htm",
+    "filepath": "./data/fed_speeches\\2018\\20181018_Don\u00e2__t_Chase_the_Needles__An_.txt",
+    "word_count": 2636
+  },
+  {
+    "year": "2018",
+    "date": "2018-10-17",
+    "title": "FinTech and the Search for Full Stack Financial Inclusion",
+    "speaker": "Governor Lael Brainard",
+    "location": "An official website of the United States Government",
+    "url": "https://www.federalreserve.gov/newsevents/speech/brainard20181017a.htm",
+    "filepath": "./data/fed_speeches\\2018\\20181017_FinTech_and_the_Search_for_Ful.txt",
+    "word_count": 1460
+  },
+  {
+    "year": "2018",
+    "date": "2018-10-15",
+    "title": "Community Investment in Denver",
+    "speaker": "Governor Lael Brainard",
+    "location": "An official website of the United States Government",
+    "url": "https://www.federalreserve.gov/newsevents/speech/brainard20181015a.htm",
+    "filepath": "./data/fed_speeches\\2018\\20181015_Community_Investment_in_Denver.txt",
+    "word_count": 1196
+  },
+  {
+    "year": "2018",
+    "date": "2018-10-04",
+    "title": "Trends in Urban and Rural Community Banks",
+    "speaker": "Vice Chairman for Supervision Randal K. Quarles",
+    "location": "An official website of the United States Government",
+    "url": "https://www.federalreserve.gov/newsevents/speech/quarles20181004a.htm",
+    "filepath": "./data/fed_speeches\\2018\\20181004_Trends_in_Urban_and_Rural_Comm.txt",
+    "word_count": 3258
+  },
+  {
+    "year": "2018",
+    "date": "2018-10-03",
+    "title": "Supporting Fast Payments for All",
+    "speaker": "Governor Lael Brainard",
+    "location": "An official website of the United States Government",
+    "url": "https://www.federalreserve.gov/newsevents/speech/brainard20181003a.htm",
+    "filepath": "./data/fed_speeches\\2018\\20181003_Supporting_Fast_Payments_for_A.txt",
+    "word_count": 2418
+  },
+  {
+    "year": "2018",
+    "date": "2018-10-02",
+    "title": "Monetary Policy and Risk Management at a Time of Low Inflation and Low Unemployment",
+    "speaker": "Chairman Jerome H. Powell",
+    "location": "An official website of the United States Government",
+    "url": "https://www.federalreserve.gov/newsevents/speech/powell20181002a.htm",
+    "filepath": "./data/fed_speeches\\2018\\20181002_Monetary_Policy_and_Risk_Manag.txt",
+    "word_count": 3492
+  },
+  {
+    "year": "2018",
+    "date": "2018-09-27",
+    "title": "Brief Remarks on the U.S. Economy",
+    "speaker": "Chairman Jerome H. Powell",
+    "location": "An official website of the United States Government",
+    "url": "https://www.federalreserve.gov/newsevents/speech/powell20180927a.htm",
+    "filepath": "./data/fed_speeches\\2018\\20180927_Brief_Remarks_on_the_U_S__Econ.txt",
+    "word_count": 515
+  },
+  {
+    "year": "2018",
+    "date": "2018-09-12",
+    "title": "What Do We Mean by Neutral and What Role Does It Play in Monetary Policy?",
+    "speaker": "Governor Lael Brainard",
+    "location": "An official website of the United States Government",
+    "url": "https://www.federalreserve.gov/newsevents/speech/brainard20180912a.htm",
+    "filepath": "./data/fed_speeches\\2018\\20180912_What_Do_We_Mean_by_Neutral_and.txt",
+    "word_count": 2736
+  },
+  {
+    "year": "2018",
+    "date": "2018-08-24",
+    "title": "Monetary Policy in a Changing Economy",
+    "speaker": "Chairman Jerome H. Powell",
+    "location": "An official website of the United States Government",
+    "url": "https://www.federalreserve.gov/newsevents/speech/powell20180824a.htm",
+    "filepath": "./data/fed_speeches\\2018\\20180824_Monetary_Policy_in_a_Changing_.txt",
+    "word_count": 563
+  },
+  {
+    "year": "2018",
+    "date": "2018-07-19",
+    "title": "Introductory Remarks",
+    "speaker": "Vice Chairman for Supervision Randal K. Quarles",
+    "location": "An official website of the United States Government",
+    "url": "https://www.federalreserve.gov/newsevents/speech/quarles20180719a.htm",
+    "filepath": "./data/fed_speeches\\2018\\20180719_Introductory_Remarks.txt",
+    "word_count": 1782
+  },
+  {
+    "year": "2018",
+    "date": "2018-07-18",
+    "title": "Getting It Right: Factors for Tailoring Supervision and Regulation of Large Financial Institutions",
+    "speaker": "Vice Chairman for Supervision Randal K. Quarles",
+    "location": "An official website of the United States Government",
+    "url": "https://www.federalreserve.gov/newsevents/speech/quarles20180718a.htm",
+    "filepath": "./data/fed_speeches\\2018\\20180718_Getting_It_Right__Factors_for_.txt",
+    "word_count": 2670
+  },
+  {
+    "year": "2018",
+    "date": "2018-06-27",
+    "title": "America's Vital Interest in Global Efforts to Promote Financial Stability",
+    "speaker": "Vice Chairman for Supervision Randal K. Quarles",
+    "location": "An official website of the United States Government",
+    "url": "https://www.federalreserve.gov/newsevents/speech/quarles20180627a.htm",
+    "filepath": "./data/fed_speeches\\2018\\20180627_America_s_Vital_Interest_in_Gl.txt",
+    "word_count": 3066
+  },
+  {
+    "year": "2018",
+    "date": "2018-06-20",
+    "title": "Monetary Policy at a Time of Uncertainty and Tight Labor Markets",
+    "speaker": "Chairman Jerome H. Powell",
+    "location": "An official website of the United States Government",
+    "url": "https://www.federalreserve.gov/newsevents/speech/powell20180620a.htm",
+    "filepath": "./data/fed_speeches\\2018\\20180620_Monetary_Policy_at_a_Time_of_U.txt",
+    "word_count": 1406
+  },
+  {
+    "year": "2018",
+    "date": "2018-05-31",
+    "title": "Sustaining Full Employment and Inflation around Target",
+    "speaker": "Governor Lael Brainard",
+    "location": "An official website of the United States Government",
+    "url": "https://www.federalreserve.gov/newsevents/speech/brainard20180531a.htm",
+    "filepath": "./data/fed_speeches\\2018\\20180531_Sustaining_Full_Employment_and.txt",
+    "word_count": 2854
+  },
+  {
+    "year": "2018",
+    "date": "2018-05-25",
+    "title": "Financial Stability and Central Bank Transparency",
+    "speaker": "Chairman Jerome H. Powell",
+    "location": "An official website of the United States Government",
+    "url": "https://www.federalreserve.gov/newsevents/speech/powell20180525a.htm",
+    "filepath": "./data/fed_speeches\\2018\\20180525_Financial_Stability_and_Centra.txt",
+    "word_count": 1924
+  },
+  {
+    "year": "2018",
+    "date": "2018-05-18",
+    "title": "Keeping Community at the Heart of the Community Reinvestment Act",
+    "speaker": "Governor Lael Brainard",
+    "location": "An official website of the United States Government",
+    "url": "https://www.federalreserve.gov/newsevents/speech/brainard20180518a.htm",
+    "filepath": "./data/fed_speeches\\2018\\20180518_Keeping_Community_at_the_Heart.txt",
+    "word_count": 2796
+  },
+  {
+    "year": "2018",
+    "date": "2018-05-16",
+    "title": "Trust Everyone--But Brand Your Cattle: Finding the Right Balance in Cross-Border Resolution",
+    "speaker": "Vice Chairman for Supervision Randal K. Quarles",
+    "location": "An official website of the United States Government",
+    "url": "https://www.federalreserve.gov/newsevents/speech/quarles20180516a.htm",
+    "filepath": "./data/fed_speeches\\2018\\20180516_Trust_Everyone--But_Brand_Your.txt",
+    "word_count": 2610
+  },
+  {
+    "year": "2018",
+    "date": "2018-05-15",
+    "title": "Cryptocurrencies, Digital Currencies, and Distributed Ledger Technologies: What Are We Learning?",
+    "speaker": "Governor Lael Brainard",
+    "location": "An official website of the United States Government",
+    "url": "https://www.federalreserve.gov/newsevents/speech/brainard20180515a.htm",
+    "filepath": "./data/fed_speeches\\2018\\20180515_Cryptocurrencies__Digital_Curr.txt",
+    "word_count": 3235
+  },
+  {
+    "year": "2018",
+    "date": "2018-05-08",
+    "title": "Monetary Policy Influences on Global Financial Conditions and International Capital Flows",
+    "speaker": "Chairman Jerome H. Powell",
+    "location": "An official website of the United States Government",
+    "url": "https://www.federalreserve.gov/newsevents/speech/powell20180508a.htm",
+    "filepath": "./data/fed_speeches\\2018\\20180508_Monetary_Policy_Influences_on_.txt",
+    "word_count": 1470
+  },
+  {
+    "year": "2018",
+    "date": "2018-05-04",
+    "title": "Liquidity Regulation and the Size of the Fed's Balance Sheet",
+    "speaker": "Vice Chairman for Supervision Randal K. Quarles",
+    "location": "An official website of the United States Government",
+    "url": "https://www.federalreserve.gov/newsevents/speech/quarles20180504a.htm",
+    "filepath": "./data/fed_speeches\\2018\\20180504_Liquidity_Regulation_and_the_S.txt",
+    "word_count": 4060
+  },
+  {
+    "year": "2018",
+    "date": "2018-04-19",
+    "title": "Safeguarding Financial Resilience through the Cycle",
+    "speaker": "Governor Lael Brainard",
+    "location": "An official website of the United States Government",
+    "url": "https://www.federalreserve.gov/newsevents/speech/brainard20180419a.htm",
+    "filepath": "./data/fed_speeches\\2018\\20180419_Safeguarding_Financial_Resilie.txt",
+    "word_count": 2494
+  },
+  {
+    "year": "2018",
+    "date": "2018-04-17",
+    "title": "Community Development in Baltimore and A Few Observations on Community Reinvestment Act Modernization",
+    "speaker": "Governor Lael Brainard",
+    "location": "An official website of the United States Government",
+    "url": "https://www.federalreserve.gov/newsevents/speech/brainard20180417a.htm",
+    "filepath": "./data/fed_speeches\\2018\\20180417_Community_Development_in_Balti.txt",
+    "word_count": 1714
+  },
+  {
+    "year": "2018",
+    "date": "2018-04-06",
+    "title": "The Outlook for the U.S. Economy",
+    "speaker": "Chairman Jerome H. Powell",
+    "location": "An official website of the United States Government",
+    "url": "https://www.federalreserve.gov/newsevents/speech/powell20180406a.htm",
+    "filepath": "./data/fed_speeches\\2018\\20180406_The_Outlook_for_the_U_S__Econo.txt",
+    "word_count": 3678
+  },
+  {
+    "year": "2018",
+    "date": "2018-04-03",
+    "title": "An Update on the Federal Reserve's Financial Stability Agenda",
+    "speaker": "Governor Lael Brainard",
+    "location": "An official website of the United States Government",
+    "url": "https://www.federalreserve.gov/newsevents/speech/brainard20180403a.htm",
+    "filepath": "./data/fed_speeches\\2018\\20180403_An_Update_on_the_Federal_Reser.txt",
+    "word_count": 3525
+  },
+  {
+    "year": "2018",
+    "date": "2018-03-26",
+    "title": "The Roles of Consumer Protection and Small Business Access to Credit in Financial Inclusion",
+    "speaker": "Vice Chairman for Supervision Randal K. Quarles",
+    "location": "An official website of the United States Government",
+    "url": "https://www.federalreserve.gov/newsevents/speech/quarles20180326a.htm",
+    "filepath": "./data/fed_speeches\\2018\\20180326_The_Roles_of_Consumer_Protecti.txt",
+    "word_count": 3047
+  },
+  {
+    "year": "2018",
+    "date": "2018-03-06",
+    "title": "Navigating Monetary Policy as Headwinds Shift to Tailwinds",
+    "speaker": "Governor Lael Brainard",
+    "location": "An official website of the United States Government",
+    "url": "https://www.federalreserve.gov/newsevents/speech/brainard20180306a.htm",
+    "filepath": "./data/fed_speeches\\2018\\20180306_Navigating_Monetary_Policy_as_.txt",
+    "word_count": 1546
+  },
+  {
+    "year": "2018",
+    "date": "2018-03-05",
+    "title": "The Federal Reserve\u00e2\u0080\u0099s Regulatory Agenda for Foreign Banking Organizations: What Lies Ahead for Enhanced Prudential Standards and the Volcker Rule",
+    "speaker": "Vice Chairman for Supervision Randal K. Quarles",
+    "location": "An official website of the United States Government",
+    "url": "https://www.federalreserve.gov/newsevents/speech/quarles20180305a.htm",
+    "filepath": "./data/fed_speeches\\2018\\20180305_The_Federal_Reserve\u00e2__s_Regula.txt",
+    "word_count": 3026
+  },
+  {
+    "year": "2018",
+    "date": "2018-02-26",
+    "title": "Brief Thoughts on the Financial Regulatory System and Cybersecurity",
+    "speaker": "Vice Chairman for Supervision Randal K. Quarles",
+    "location": "An official website of the United States Government",
+    "url": "https://www.federalreserve.gov/newsevents/speech/quarles20180226b.htm",
+    "filepath": "./data/fed_speeches\\2018\\20180226_Brief_Thoughts_on_the_Financia.txt",
+    "word_count": 812
+  },
+  {
+    "year": "2018",
+    "date": "2018-02-26",
+    "title": "An Assessment of the U.S. Economy",
+    "speaker": "Vice Chairman for Supervision Randal K. Quarles",
+    "location": "An official website of the United States Government",
+    "url": "https://www.federalreserve.gov/newsevents/speech/quarles20180226a.htm",
+    "filepath": "./data/fed_speeches\\2018\\20180226_An_Assessment_of_the_U_S__Econ.txt",
+    "word_count": 582
+  },
+  {
+    "year": "2018",
+    "date": "2018-02-22",
+    "title": "The U.S. Economy after the Global Financial Crisis",
+    "speaker": "Vice Chairman for Supervision Randal K. Quarles",
+    "location": "An official website of the United States Government",
+    "url": "https://www.federalreserve.gov/newsevents/speech/quarles20180222a.htm",
+    "filepath": "./data/fed_speeches\\2018\\20180222_The_U_S__Economy_after_the_Glo.txt",
+    "word_count": 1186
+  },
+  {
+    "year": "2018",
+    "date": "2018-02-13",
+    "title": "Remarks at the Ceremonial Swearing-in",
+    "speaker": "Chairman Jerome H. Powell",
+    "location": "An official website of the United States Government",
+    "url": "https://www.federalreserve.gov/newsevents/speech/powell20180213a.htm",
+    "filepath": "./data/fed_speeches\\2018\\20180213_Remarks_at_the_Ceremonial_Swea.txt",
+    "word_count": 701
+  },
+  {
+    "year": "2018",
+    "date": "2018-01-19",
+    "title": "Early Observations on Improving the Effectiveness of Post-Crisis Regulation",
+    "speaker": "Vice Chairman for Supervision Randal K. Quarles",
+    "location": "An official website of the United States Government",
+    "url": "https://www.federalreserve.gov/newsevents/speech/quarles20180119a.htm",
+    "filepath": "./data/fed_speeches\\2018\\20180119_Early_Observations_on_Improvin.txt",
+    "word_count": 2600
+  },
+  {
+    "year": "2019",
+    "date": "2019-12-18",
+    "title": "Update on Digital Currencies, Stablecoins, and the Challenges Ahead",
+    "speaker": "Governor Lael Brainard",
+    "location": "An official website of the United States Government",
+    "url": "https://www.federalreserve.gov/newsevents/speech/brainard20191218a.htm",
+    "filepath": "./data/fed_speeches\\2019\\20191218_Update_on_Digital_Currencies__.txt",
+    "word_count": 2299
+  },
+  {
+    "year": "2019",
+    "date": "2019-11-26",
+    "title": "Federal Reserve Review of Monetary Policy Strategy, Tools, and Communications: Some Preliminary Views",
+    "speaker": "Governor Lael Brainard",
+    "location": "An official website of the United States Government",
+    "url": "https://www.federalreserve.gov/newsevents/speech/brainard20191126a.htm",
+    "filepath": "./data/fed_speeches\\2019\\20191126_Federal_Reserve_Review_of_Mone.txt",
+    "word_count": 3178
+  },
+  {
+    "year": "2019",
+    "date": "2019-11-25",
+    "title": "Building on the Gains from the Long Expansion",
+    "speaker": "Chair Jerome H. Powell",
+    "location": "An official website of the United States Government",
+    "url": "https://www.federalreserve.gov/newsevents/speech/powell20191125a.htm",
+    "filepath": "./data/fed_speeches\\2019\\20191125_Building_on_the_Gains_from_the.txt",
+    "word_count": 2335
+  },
+  {
+    "year": "2019",
+    "date": "2019-11-14",
+    "title": "The Federal Reserve\u00e2\u0080\u0099s Review of Its Monetary Policy Strategy, Tools, and Communication Practices",
+    "speaker": "Vice Chair Richard H. Clarida",
+    "location": "An official website of the United States Government",
+    "url": "https://www.federalreserve.gov/newsevents/speech/clarida20191114a.htm",
+    "filepath": "./data/fed_speeches\\2019\\20191114_The_Federal_Reserve\u00e2__s_Review.txt",
+    "word_count": 2438
+  },
+  {
+    "year": "2019",
+    "date": "2019-11-14",
+    "title": "Brief Remarks (via pre-recorded video)",
+    "speaker": "Vice Chair for Supervision Randal K. Quarles",
+    "location": "An official website of the United States Government",
+    "url": "https://www.federalreserve.gov/newsevents/speech/quarles20191114a.htm",
+    "filepath": "./data/fed_speeches\\2019\\20191114_Brief_Remarks__via_pre-recorde.txt",
+    "word_count": 1164
+  },
+  {
+    "year": "2019",
+    "date": "2019-11-14",
+    "title": "Video",
+    "speaker": "Vice Chair for Supervision Randal K. Quarles",
+    "location": "An official website of the United States Government",
+    "url": "https://www.federalreserve.gov/newsevents/speech/quarles20191114a.htm",
+    "filepath": "./data/fed_speeches\\2019\\20191114_Video.txt",
+    "word_count": 1164
+  },
+  {
+    "year": "2019",
+    "date": "2019-11-12",
+    "title": "Monetary Policy, Price Stability, and Equilibrium Bond Yields: Success and Consequences",
+    "speaker": "Vice Chair Richard H. Clarida",
+    "location": "An official website of the United States Government",
+    "url": "https://www.federalreserve.gov/newsevents/speech/clarida20191112a.htm",
+    "filepath": "./data/fed_speeches\\2019\\20191112_Monetary_Policy__Price_Stabili.txt",
+    "word_count": 8
+  },
+  {
+    "year": "2019",
+    "date": "2019-11-08",
+    "title": "Why Climate Change Matters for Monetary Policy and Financial Stability",
+    "speaker": "Governor Lael Brainard",
+    "location": "An official website of the United States Government",
+    "url": "https://www.federalreserve.gov/newsevents/speech/brainard20191108a.htm",
+    "filepath": "./data/fed_speeches\\2019\\20191108_Why_Climate_Change_Matters_for.txt",
+    "word_count": 1782
+  },
+  {
+    "year": "2019",
+    "date": "2019-11-01",
+    "title": "Friedrich Hayek and the Price System",
+    "speaker": "Vice Chair for Supervision Randal K. Quarles",
+    "location": "An official website of the United States Government",
+    "url": "https://www.federalreserve.gov/newsevents/speech/quarles20191101a.htm",
+    "filepath": "./data/fed_speeches\\2019\\20191101_Friedrich_Hayek_and_the_Price_.txt",
+    "word_count": 2930
+  },
+  {
+    "year": "2019",
+    "date": "2019-11-01",
+    "title": "The United States, Japan, and the Global Economy",
+    "speaker": "Vice Chair Richard H. Clarida",
+    "location": "An official website of the United States Government",
+    "url": "https://www.federalreserve.gov/newsevents/speech/clarida20191101a.htm",
+    "filepath": "./data/fed_speeches\\2019\\20191101_The_United_States__Japan__and_.txt",
+    "word_count": 2195
+  },
+  {
+    "year": "2019",
+    "date": "2019-10-21",
+    "title": "Closing Remarks",
+    "speaker": "Governor Michelle W. Bowman",
+    "location": "An official website of the United States Government",
+    "url": "https://www.federalreserve.gov/newsevents/speech/bowman20191021a.htm",
+    "filepath": "./data/fed_speeches\\2019\\20191021_Closing_Remarks.txt",
+    "word_count": 953
+  },
+  {
+    "year": "2019",
+    "date": "2019-10-21",
+    "title": "Video",
+    "speaker": "Governor Michelle W. Bowman",
+    "location": "An official website of the United States Government",
+    "url": "https://www.federalreserve.gov/newsevents/speech/bowman20191021a.htm",
+    "filepath": "./data/fed_speeches\\2019\\20191021_Video.txt",
+    "word_count": 953
+  },
+  {
+    "year": "2019",
+    "date": "2019-10-18",
+    "title": "U.S. Economic Outlook and Monetary Policy",
+    "speaker": "Vice Chair Richard H. Clarida",
+    "location": "An official website of the United States Government",
+    "url": "https://www.federalreserve.gov/newsevents/speech/clarida20191018a.htm",
+    "filepath": "./data/fed_speeches\\2019\\20191018_U_S__Economic_Outlook_and_Mone.txt",
+    "word_count": 1029
+  },
+  {
+    "year": "2019",
+    "date": "2019-10-17",
+    "title": "Opening Remarks",
+    "speaker": "Governor Michelle W. Bowman",
+    "location": "An official website of the United States Government",
+    "url": "https://www.federalreserve.gov/newsevents/speech/bowman20191017a.htm",
+    "filepath": "./data/fed_speeches\\2019\\20191017_Opening_Remarks.txt",
+    "word_count": 939
+  },
+  {
+    "year": "2019",
+    "date": "2019-10-16",
+    "title": "Digital Currencies, Stablecoins, and the Evolving Payments Landscape",
+    "speaker": "Governor Lael Brainard",
+    "location": "An official website of the United States Government",
+    "url": "https://www.federalreserve.gov/newsevents/speech/brainard20191016a.htm",
+    "filepath": "./data/fed_speeches\\2019\\20191016_Digital_Currencies__Stablecoin.txt",
+    "word_count": 3609
+  },
+  {
+    "year": "2019",
+    "date": "2019-10-09",
+    "title": "Opening Remarks",
+    "speaker": "Chair Jerome H. Powell",
+    "location": "An official website of the United States Government",
+    "url": "https://www.federalreserve.gov/newsevents/speech/powell20191009a.htm",
+    "filepath": "./data/fed_speeches\\2019\\20191009_Opening_Remarks.txt",
+    "word_count": 694
+  },
+  {
+    "year": "2019",
+    "date": "2019-10-08",
+    "title": "Data-Dependent Monetary Policy in an Evolving Economy",
+    "speaker": "Chair Jerome H. Powell",
+    "location": "An official website of the United States Government",
+    "url": "https://www.federalreserve.gov/newsevents/speech/powell20191008a.htm",
+    "filepath": "./data/fed_speeches\\2019\\20191008_Data-Dependent_Monetary_Policy.txt",
+    "word_count": 3333
+  },
+  {
+    "year": "2019",
+    "date": "2019-10-07",
+    "title": "Brief Remarks",
+    "speaker": "Chair Jerome H. Powell",
+    "location": "An official website of the United States Government",
+    "url": "https://www.federalreserve.gov/newsevents/speech/powell20191007a.htm",
+    "filepath": "./data/fed_speeches\\2019\\20191007_Brief_Remarks.txt",
+    "word_count": 756
+  },
+  {
+    "year": "2019",
+    "date": "2019-10-04",
+    "title": "Opening Remarks",
+    "speaker": "Chair Jerome H. Powell",
+    "location": "An official website of the United States Government",
+    "url": "https://www.federalreserve.gov/newsevents/speech/powell20191004a.htm",
+    "filepath": "./data/fed_speeches\\2019\\20191004_Opening_Remarks.txt",
+    "word_count": 7
+  },
+  {
+    "year": "2019",
+    "date": "2019-10-03",
+    "title": "The Financial Stability Board at 10 Years\u00e2\u0080\u0094Looking Back and Looking Ahead",
+    "speaker": "Vice Chair for Supervision and Chair of the Financial Stability Board Randal K. Quarles",
+    "location": "An official website of the United States Government",
+    "url": "https://www.federalreserve.gov/newsevents/speech/quarles20191003a.htm",
+    "filepath": "./data/fed_speeches\\2019\\20191003_The_Financial_Stability_Board_.txt",
+    "word_count": 3250
+  },
+  {
+    "year": "2019",
+    "date": "2019-10-01",
+    "title": "Advancing Our Understanding of Community Banking",
+    "speaker": "Governor Michelle W. Bowman",
+    "location": "An official website of the United States Government",
+    "url": "https://www.federalreserve.gov/newsevents/speech/bowman20191001a.htm",
+    "filepath": "./data/fed_speeches\\2019\\20191001_Advancing_Our_Understanding_of.txt",
+    "word_count": 798
+  },
+  {
+    "year": "2019",
+    "date": "2019-10-01",
+    "title": "Introductory Remarks",
+    "speaker": "Vice Chair Richard H. Clarida",
+    "location": "An official website of the United States Government",
+    "url": "https://www.federalreserve.gov/newsevents/speech/clarida20191001a.htm",
+    "filepath": "./data/fed_speeches\\2019\\20191001_Introductory_Remarks.txt",
+    "word_count": 534
+  },
+  {
+    "year": "2019",
+    "date": "2019-09-27",
+    "title": "Law and Macroeconomics: The Global Evolution of Macroprudential Regulation",
+    "speaker": "Vice Chair for Supervision Randal K. Quarles",
+    "location": "An official website of the United States Government",
+    "url": "https://www.federalreserve.gov/newsevents/speech/quarles20190927a.htm",
+    "filepath": "./data/fed_speeches\\2019\\20190927_Law_and_Macroeconomics__The_Gl.txt",
+    "word_count": 3194
+  },
+  {
+    "year": "2019",
+    "date": "2019-09-26",
+    "title": "Government of Union: Achieving Certainty in Cross-Border Finance",
+    "speaker": "Vice Chair for Supervision and Chair of the Financial Stability Board Randal K. Quarles",
+    "location": "An official website of the United States Government",
+    "url": "https://www.federalreserve.gov/newsevents/speech/quarles20190926a.htm",
+    "filepath": "./data/fed_speeches\\2019\\20190926_Government_of_Union__Achieving.txt",
+    "word_count": 1655
+  },
+  {
+    "year": "2019",
+    "date": "2019-09-26",
+    "title": "The Federal Reserve\u00e2\u0080\u0099s Review of Its Monetary Policy Strategy, Tools, and Communication Practices",
+    "speaker": "Vice Chair Richard H. Clarida",
+    "location": "An official website of the United States Government",
+    "url": "https://www.federalreserve.gov/newsevents/speech/clarida20190926a.htm",
+    "filepath": "./data/fed_speeches\\2019\\20190926_The_Federal_Reserve\u00e2__s_Review.txt",
+    "word_count": 2638
+  },
+  {
+    "year": "2019",
+    "date": "2019-09-05",
+    "title": "Refining the Stress Capital Buffer",
+    "speaker": "Vice Chair for Supervision Randal K. Quarles",
+    "location": "An official website of the United States Government",
+    "url": "https://www.federalreserve.gov/newsevents/speech/quarles20190905a.htm",
+    "filepath": "./data/fed_speeches\\2019\\20190905_Refining_the_Stress_Capital_Bu.txt",
+    "word_count": 3188
+  },
+  {
+    "year": "2019",
+    "date": "2019-09-04",
+    "title": "Introductory Remarks",
+    "speaker": "Governor Michelle W. Bowman",
+    "location": "An official website of the United States Government",
+    "url": "https://www.federalreserve.gov/newsevents/speech/bowman20190904a.htm",
+    "filepath": "./data/fed_speeches\\2019\\20190904_Introductory_Remarks.txt",
+    "word_count": 893
+  },
+  {
+    "year": "2019",
+    "date": "2019-08-23",
+    "title": "Challenges for Monetary Policy",
+    "speaker": "Chair Jerome H. Powell",
+    "location": "An official website of the United States Government",
+    "url": "https://www.federalreserve.gov/newsevents/speech/powell20190823a.htm",
+    "filepath": "./data/fed_speeches\\2019\\20190823_Challenges_for_Monetary_Policy.txt",
+    "word_count": 3580
+  },
+  {
+    "year": "2019",
+    "date": "2019-08-20",
+    "title": "A Decade of Building Stronger Communities",
+    "speaker": "Vice Chair for Supervision Randal K. Quarles",
+    "location": "An official website of the United States Government",
+    "url": "https://www.federalreserve.gov/newsevents/speech/quarles20190820a.htm",
+    "filepath": "./data/fed_speeches\\2019\\20190820_A_Decade_of_Building_Stronger_.txt",
+    "word_count": 1057
+  },
+  {
+    "year": "2019",
+    "date": "2019-08-05",
+    "title": "Delivering Fast Payments for All",
+    "speaker": "Governor Lael Brainard",
+    "location": "An official website of the United States Government",
+    "url": "https://www.federalreserve.gov/newsevents/speech/brainard20190805a.htm",
+    "filepath": "./data/fed_speeches\\2019\\20190805_Delivering_Fast_Payments_for_A.txt",
+    "word_count": 2503
+  },
+  {
+    "year": "2019",
+    "date": "2019-07-16",
+    "title": "Monetary Policy in the Post-Crisis Era",
+    "speaker": "Chair Jerome H. Powell",
+    "location": "An official website of the United States Government",
+    "url": "https://www.federalreserve.gov/newsevents/speech/powell20190716a.htm",
+    "filepath": "./data/fed_speeches\\2019\\20190716_Monetary_Policy_in_the_Post-Cr.txt",
+    "word_count": 2226
+  },
+  {
+    "year": "2019",
+    "date": "2019-07-11",
+    "title": "Perspectives on the Economy from Scranton",
+    "speaker": "Governor Lael Brainard",
+    "location": "An official website of the United States Government",
+    "url": "https://www.federalreserve.gov/newsevents/speech/brainard20190711a.htm",
+    "filepath": "./data/fed_speeches\\2019\\20190711_Perspectives_on_the_Economy_fr.txt",
+    "word_count": 895
+  },
+  {
+    "year": "2019",
+    "date": "2019-07-09",
+    "title": "Stress Testing: A Decade of Continuity and Change",
+    "speaker": "Vice Chair for Supervision Randal K. Quarles",
+    "location": "An official website of the United States Government",
+    "url": "https://www.federalreserve.gov/newsevents/speech/quarles20190709a.htm",
+    "filepath": "./data/fed_speeches\\2019\\20190709_Stress_Testing__A_Decade_of_Co.txt",
+    "word_count": 1259
+  },
+  {
+    "year": "2019",
+    "date": "2019-07-09",
+    "title": "Welcoming Remarks (via prerecorded video)",
+    "speaker": "Chair Jerome H. Powell",
+    "location": "An official website of the United States Government",
+    "url": "https://www.federalreserve.gov/newsevents/speech/powell20190709a.htm",
+    "filepath": "./data/fed_speeches\\2019\\20190709_Welcoming_Remarks__via_prereco.txt",
+    "word_count": 653
+  },
+  {
+    "year": "2019",
+    "date": "2019-07-09",
+    "title": "Video",
+    "speaker": "Chair Jerome H. Powell",
+    "location": "An official website of the United States Government",
+    "url": "https://www.federalreserve.gov/newsevents/speech/powell20190709a.htm",
+    "filepath": "./data/fed_speeches\\2019\\20190709_Video.txt",
+    "word_count": 653
+  },
+  {
+    "year": "2019",
+    "date": "2019-07-01",
+    "title": "The Federal Reserve's Review of Its Monetary Policy Strategy, Tools, and Communication Practices",
+    "speaker": "Vice Chair Richard H. Clarida",
+    "location": "An official website of the United States Government",
+    "url": "https://www.federalreserve.gov/newsevents/speech/clarida20190701a.htm",
+    "filepath": "./data/fed_speeches\\2019\\20190701_The_Federal_Reserve_s_Review_o.txt",
+    "word_count": 3188
+  },
+  {
+    "year": "2019",
+    "date": "2019-06-25",
+    "title": "Economic Outlook and Monetary Policy Review",
+    "speaker": "Chair Jerome H. Powell",
+    "location": "An official website of the United States Government",
+    "url": "https://www.federalreserve.gov/newsevents/speech/powell20190625a.htm",
+    "filepath": "./data/fed_speeches\\2019\\20190625_Economic_Outlook_and_Monetary_.txt",
+    "word_count": 1379
+  },
+  {
+    "year": "2019",
+    "date": "2019-06-25",
+    "title": "Minority Depository Institutions",
+    "speaker": "Governor Michelle W. Bowman",
+    "location": "An official website of the United States Government",
+    "url": "https://www.federalreserve.gov/newsevents/speech/bowman20190625a.htm",
+    "filepath": "./data/fed_speeches\\2019\\20190625_Minority_Depository_Institutio.txt",
+    "word_count": 1094
+  },
+  {
+    "year": "2019",
+    "date": "2019-06-21",
+    "title": "Fed Listens in Cincinnati: How Does Monetary Policy Affect Your Community?",
+    "speaker": "Governor Lael Brainard",
+    "location": "An official website of the United States Government",
+    "url": "https://www.federalreserve.gov/newsevents/speech/brainard20190621a.htm",
+    "filepath": "./data/fed_speeches\\2019\\20190621_Fed_Listens_in_Cincinnati__How.txt",
+    "word_count": 1615
+  },
+  {
+    "year": "2019",
+    "date": "2019-06-05",
+    "title": "The Federal Reserve's Review of Its Monetary Policy Strategy, Tools, and Communication Practices",
+    "speaker": "Vice Chair Richard H. Clarida",
+    "location": "An official website of the United States Government",
+    "url": "https://www.federalreserve.gov/newsevents/speech/clarida20190605a.htm",
+    "filepath": "./data/fed_speeches\\2019\\20190605_The_Federal_Reserve_s_Review_o.txt",
+    "word_count": 914
+  },
+  {
+    "year": "2019",
+    "date": "2019-06-04",
+    "title": "Opening Remarks",
+    "speaker": "Chair Jerome H. Powell",
+    "location": "An official website of the United States Government",
+    "url": "https://www.federalreserve.gov/newsevents/speech/powell20190604a.htm",
+    "filepath": "./data/fed_speeches\\2019\\20190604_Opening_Remarks.txt",
+    "word_count": 2190
+  },
+  {
+    "year": "2019",
+    "date": "2019-06-03",
+    "title": "The Next Stage in the LIBOR Transition (via prerecorded video)",
+    "speaker": "Vice Chair for Supervision Randal K. Quarles",
+    "location": "An official website of the United States Government",
+    "url": "https://www.federalreserve.gov/newsevents/speech/quarles20190603a.htm",
+    "filepath": "./data/fed_speeches\\2019\\20190603_The_Next_Stage_in_the_LIBOR_Tr.txt",
+    "word_count": 94
+  },
+  {
+    "year": "2019",
+    "date": "2019-05-30",
+    "title": "Monetary Policy and Financial Stability",
+    "speaker": "Vice Chair for Supervision Randal K. Quarles",
+    "location": "An official website of the United States Government",
+    "url": "https://www.federalreserve.gov/newsevents/speech/quarles20190530a.htm",
+    "filepath": "./data/fed_speeches\\2019\\20190530_Monetary_Policy_and_Financial_.txt",
+    "word_count": 1900
+  },
+  {
+    "year": "2019",
+    "date": "2019-05-30",
+    "title": "Sustaining Maximum Employment and Price Stability",
+    "speaker": "Vice Chair Richard H. Clarida",
+    "location": "An official website of the United States Government",
+    "url": "https://www.federalreserve.gov/newsevents/speech/clarida20190530a.htm",
+    "filepath": "./data/fed_speeches\\2019\\20190530_Sustaining_Maximum_Employment_.txt",
+    "word_count": 3199
+  },
+  {
+    "year": "2019",
+    "date": "2019-05-20",
+    "title": "Business Debt and Our Dynamic Financial System",
+    "speaker": "Chair Jerome H. Powell",
+    "location": "An official website of the United States Government",
+    "url": "https://www.federalreserve.gov/newsevents/speech/powell20190520a.htm",
+    "filepath": "./data/fed_speeches\\2019\\20190520_Business_Debt_and_Our_Dynamic_.txt",
+    "word_count": 3047
+  },
+  {
+    "year": "2019",
+    "date": "2019-05-20",
+    "title": "The Federal Reserve's Review of Its Monetary Policy Strategy, Tools, and Communication Practices",
+    "speaker": "Vice Chair Richard H. Clarida",
+    "location": "An official website of the United States Government",
+    "url": "https://www.federalreserve.gov/newsevents/speech/clarida20190520a.htm",
+    "filepath": "./data/fed_speeches\\2019\\20190520_The_Federal_Reserve_s_Review_o.txt",
+    "word_count": 1192
+  },
+  {
+    "year": "2019",
+    "date": "2019-05-17",
+    "title": "The Federal Reserve\u00e2\u0080\u0099s Review of Its Monetary Policy Strategy, Tools, and Communication Practices",
+    "speaker": "Vice Chair Richard H. Clarida",
+    "location": "An official website of the United States Government",
+    "url": "https://www.federalreserve.gov/newsevents/speech/clarida20190517a.htm",
+    "filepath": "./data/fed_speeches\\2019\\20190517_The_Federal_Reserve\u00e2__s_Review.txt",
+    "word_count": 537
+  },
+  {
+    "year": "2019",
+    "date": "2019-05-16",
+    "title": "The Disconnect between Inflation and Employment in the New Normal",
+    "speaker": "Governor Lael Brainard",
+    "location": "An official website of the United States Government",
+    "url": "https://www.federalreserve.gov/newsevents/speech/brainard20190516a.htm",
+    "filepath": "./data/fed_speeches\\2019\\20190516_The_Disconnect_between_Inflati.txt",
+    "word_count": 2913
+  },
+  {
+    "year": "2019",
+    "date": "2019-05-13",
+    "title": "The Federal Reserve\u00e2\u0080\u0099s Review of Its Monetary Policy Strategy, Tools, and Communication Practices",
+    "speaker": "Vice Chair Richard H. Clarida",
+    "location": "An official website of the United States Government",
+    "url": "https://www.federalreserve.gov/newsevents/speech/clarida20190513a.htm",
+    "filepath": "./data/fed_speeches\\2019\\20190513_The_Federal_Reserve\u00e2__s_Review.txt",
+    "word_count": 1016
+  },
+  {
+    "year": "2019",
+    "date": "2019-05-10",
+    "title": "Is the Middle Class within Reach for Middle-Income Families?",
+    "speaker": "Governor Lael Brainard",
+    "location": "An official website of the United States Government",
+    "url": "https://www.federalreserve.gov/newsevents/speech/brainard20190510a.htm",
+    "filepath": "./data/fed_speeches\\2019\\20190510_Is_the_Middle_Class_within_Rea.txt",
+    "word_count": 4646
+  },
+  {
+    "year": "2019",
+    "date": "2019-05-09",
+    "title": "Welcoming Remarks",
+    "speaker": "Chair Jerome H. Powell",
+    "location": "An official website of the United States Government",
+    "url": "https://www.federalreserve.gov/newsevents/speech/powell20190509a.htm",
+    "filepath": "./data/fed_speeches\\2019\\20190509_Welcoming_Remarks.txt",
+    "word_count": 761
+  },
+  {
+    "year": "2019",
+    "date": "2019-05-08",
+    "title": "\"Fed Listens\" in Richmond: How Does Monetary Policy Affect Your Community?",
+    "speaker": "Governor Lael Brainard",
+    "location": "An official website of the United States Government",
+    "url": "https://www.federalreserve.gov/newsevents/speech/brainard20190508a.htm",
+    "filepath": "./data/fed_speeches\\2019\\20190508__Fed_Listens__in_Richmond__How.txt",
+    "word_count": 1605
+  },
+  {
+    "year": "2019",
+    "date": "2019-05-03",
+    "title": "Models, Markets, and Monetary Policy",
+    "speaker": "Vice Chair Richard H. Clarida",
+    "location": "An official website of the United States Government",
+    "url": "https://www.federalreserve.gov/newsevents/speech/clarida20190503a.htm",
+    "filepath": "./data/fed_speeches\\2019\\20190503_Models__Markets__and_Monetary_.txt",
+    "word_count": 3250
+  },
+  {
+    "year": "2019",
+    "date": "2019-04-11",
+    "title": "Community Banking in the Age of Innovation",
+    "speaker": "Governor Michelle W. Bowman",
+    "location": "An official website of the United States Government",
+    "url": "https://www.federalreserve.gov/newsevents/speech/bowman20190411a.htm",
+    "filepath": "./data/fed_speeches\\2019\\20190411_Community_Banking_in_the_Age_o.txt",
+    "word_count": 2152
+  },
+  {
+    "year": "2019",
+    "date": "2019-04-11",
+    "title": "U.S. Economic Outlook and Monetary Policy",
+    "speaker": "Vice Chair Richard H. Clarida",
+    "location": "An official website of the United States Government",
+    "url": "https://www.federalreserve.gov/newsevents/speech/clarida20190411a.htm",
+    "filepath": "./data/fed_speeches\\2019\\20190411_U_S__Economic_Outlook_and_Mone.txt",
+    "word_count": 819
+  },
+  {
+    "year": "2019",
+    "date": "2019-04-10",
+    "title": "Progress on the Transition to Risk-Free Rates",
+    "speaker": "Vice Chair for Supervision and Chair of the Financial Stability Board Randal K. Quarles",
+    "location": "An official website of the United States Government",
+    "url": "https://www.federalreserve.gov/newsevents/speech/quarles20190410a.htm",
+    "filepath": "./data/fed_speeches\\2019\\20190410_Progress_on_the_Transition_to_.txt",
+    "word_count": 111
+  },
+  {
+    "year": "2019",
+    "date": "2019-04-09",
+    "title": "The Federal Reserve's Review of Its Monetary Policy Strategy, Tools, and Communication Practices",
+    "speaker": "Vice Chair Richard H. Clarida",
+    "location": "An official website of the United States Government",
+    "url": "https://www.federalreserve.gov/newsevents/speech/clarida20190409a.htm",
+    "filepath": "./data/fed_speeches\\2019\\20190409_The_Federal_Reserve_s_Review_o.txt",
+    "word_count": 2888
+  },
+  {
+    "year": "2019",
+    "date": "2019-04-02",
+    "title": "Fostering Closer Supervisory Communication",
+    "speaker": "Governor Michelle W. Bowman",
+    "location": "An official website of the United States Government",
+    "url": "https://www.federalreserve.gov/newsevents/speech/bowman20190402a.htm",
+    "filepath": "./data/fed_speeches\\2019\\20190402_Fostering_Closer_Supervisory_C.txt",
+    "word_count": 2287
+  },
+  {
+    "year": "2019",
+    "date": "2019-04-02",
+    "title": "The Financial Stability Board: Beyond the Fog of Battle",
+    "speaker": "Vice Chair for Supervision and Chair of the Financial Stability Board Randal K. Quarles",
+    "location": "An official website of the United States Government",
+    "url": "https://www.federalreserve.gov/newsevents/speech/quarles20190402a.htm",
+    "filepath": "./data/fed_speeches\\2019\\20190402_The_Financial_Stability_Board_.txt",
+    "word_count": 1940
+  },
+  {
+    "year": "2019",
+    "date": "2019-03-29",
+    "title": "Frameworks for the Countercyclical Capital Buffer",
+    "speaker": "Vice Chair for Supervision Randal K. Quarles",
+    "location": "An official website of the United States Government",
+    "url": "https://www.federalreserve.gov/newsevents/speech/quarles20190329a.htm",
+    "filepath": "./data/fed_speeches\\2019\\20190329_Frameworks_for_the_Countercycl.txt",
+    "word_count": 3463
+  },
+  {
+    "year": "2019",
+    "date": "2019-03-28",
+    "title": "Agriculture and Community Banking",
+    "speaker": "Governor Michelle W. Bowman",
+    "location": "An official website of the United States Government",
+    "url": "https://www.federalreserve.gov/newsevents/speech/bowman20190328a.htm",
+    "filepath": "./data/fed_speeches\\2019\\20190328_Agriculture_and_Community_Bank.txt",
+    "word_count": 2370
+  },
+  {
+    "year": "2019",
+    "date": "2019-03-28",
+    "title": "Global Shocks and the U.S. Economy",
+    "speaker": "Vice Chair Richard H. Clarida",
+    "location": "An official website of the United States Government",
+    "url": "https://www.federalreserve.gov/newsevents/speech/clarida20190328a.htm",
+    "filepath": "./data/fed_speeches\\2019\\20190328_Global_Shocks_and_the_U_S__Eco.txt",
+    "word_count": 1262
+  },
+  {
+    "year": "2019",
+    "date": "2019-03-28",
+    "title": "The Financial Stability Board in 2019",
+    "speaker": "Vice Chair for Supervision and Chair of the Financial Stability Board Randal K. Quarles",
+    "location": "An official website of the United States Government",
+    "url": "https://www.federalreserve.gov/newsevents/speech/quarles20190328a.htm",
+    "filepath": "./data/fed_speeches\\2019\\20190328_The_Financial_Stability_Board_.txt",
+    "word_count": 3624
+  },
+  {
+    "year": "2019",
+    "date": "2019-03-25",
+    "title": "Welcoming Remarks",
+    "speaker": "Governor Michelle W. Bowman",
+    "location": "An official website of the United States Government",
+    "url": "https://www.federalreserve.gov/newsevents/speech/bowman20190325a.htm",
+    "filepath": "./data/fed_speeches\\2019\\20190325_Welcoming_Remarks.txt",
+    "word_count": 15
+  },
+  {
+    "year": "2019",
+    "date": "2019-03-12",
+    "title": "The Community Reinvestment Act: How Can We Preserve What Works and Make it Better?",
+    "speaker": "Governor Lael Brainard",
+    "location": "An official website of the United States Government",
+    "url": "https://www.federalreserve.gov/newsevents/speech/brainard20190312a.htm",
+    "filepath": "./data/fed_speeches\\2019\\20190312_The_Community_Reinvestment_Act.txt",
+    "word_count": 3665
+  },
+  {
+    "year": "2019",
+    "date": "2019-03-11",
+    "title": "Brief Remarks",
+    "speaker": "Chair Jerome H. Powell",
+    "location": "An official website of the United States Government",
+    "url": "https://www.federalreserve.gov/newsevents/speech/powell20190311a.htm",
+    "filepath": "./data/fed_speeches\\2019\\20190311_Brief_Remarks.txt",
+    "word_count": 639
+  },
+  {
+    "year": "2019",
+    "date": "2019-03-08",
+    "title": "Monetary Policy: Normalization and the Road Ahead",
+    "speaker": "Chair Jerome H. Powell",
+    "location": "An official website of the United States Government",
+    "url": "https://www.federalreserve.gov/newsevents/speech/powell20190308a.htm",
+    "filepath": "./data/fed_speeches\\2019\\20190308_Monetary_Policy__Normalization.txt",
+    "word_count": 2547
+  },
+  {
+    "year": "2019",
+    "date": "2019-03-07",
+    "title": "Navigating Cautiously",
+    "speaker": "Governor Lael Brainard",
+    "location": "An official website of the United States Government",
+    "url": "https://www.federalreserve.gov/newsevents/speech/brainard20190307a.htm",
+    "filepath": "./data/fed_speeches\\2019\\20190307_Navigating_Cautiously.txt",
+    "word_count": 3554
+  },
+  {
+    "year": "2019",
+    "date": "2019-02-28",
+    "title": "Recent Economic Developments and Longer-Term Challenges",
+    "speaker": "Chair Jerome H. Powell",
+    "location": "An official website of the United States Government",
+    "url": "https://www.federalreserve.gov/newsevents/speech/powell20190228b.htm",
+    "filepath": "./data/fed_speeches\\2019\\20190228_Recent_Economic_Developments_a.txt",
+    "word_count": 2392
+  },
+  {
+    "year": "2019",
+    "date": "2019-02-28",
+    "title": "U.S. Economic Outlook and Monetary Policy",
+    "speaker": "Vice Chair Richard H. Clarida",
+    "location": "An official website of the United States Government",
+    "url": "https://www.federalreserve.gov/newsevents/speech/clarida20190228a.htm",
+    "filepath": "./data/fed_speeches\\2019\\20190228_U_S__Economic_Outlook_and_Mone.txt",
+    "word_count": 949
+  },
+  {
+    "year": "2019",
+    "date": "2019-02-23",
+    "title": "Is Economics for Me? Increasing the Participation of Black Women in Economics",
+    "speaker": "Governor Lael Brainard",
+    "location": "An official website of the United States Government",
+    "url": "https://www.federalreserve.gov/newsevents/speech/brainard20190223a.htm",
+    "filepath": "./data/fed_speeches\\2019\\20190223_Is_Economics_for_Me__Increasin.txt",
+    "word_count": 1215
+  },
+  {
+    "year": "2019",
+    "date": "2019-02-22",
+    "title": "The Future of the Federal Reserve's Balance Sheet",
+    "speaker": "Vice Chairman for Supervision Randal K. Quarles",
+    "location": "An official website of the United States Government",
+    "url": "https://www.federalreserve.gov/newsevents/speech/quarles20190222a.htm",
+    "filepath": "./data/fed_speeches\\2019\\20190222_The_Future_of_the_Federal_Rese.txt",
+    "word_count": 1511
+  },
+  {
+    "year": "2019",
+    "date": "2019-02-22",
+    "title": "The Federal Reserve's Review of Its Monetary Policy Strategy, Tools, and Communication Practices",
+    "speaker": "Vice Chair Richard H. Clarida",
+    "location": "An official website of the United States Government",
+    "url": "https://www.federalreserve.gov/newsevents/speech/clarida20190222a.htm",
+    "filepath": "./data/fed_speeches\\2019\\20190222_The_Federal_Reserve_s_Review_o.txt",
+    "word_count": 2638
+  },
+  {
+    "year": "2019",
+    "date": "2019-02-12",
+    "title": "Encouraging Economic Development in High-Poverty Rural Communities",
+    "speaker": "Chairman Jerome H. Powell",
+    "location": "An official website of the United States Government",
+    "url": "https://www.federalreserve.gov/newsevents/speech/powell20190212a.htm",
+    "filepath": "./data/fed_speeches\\2019\\20190212_Encouraging_Economic_Developme.txt",
+    "word_count": 2126
+  },
+  {
+    "year": "2019",
+    "date": "2019-02-11",
+    "title": "A Conversation on Community Banking",
+    "speaker": "Governor Michelle W. Bowman",
+    "location": "An official website of the United States Government",
+    "url": "https://www.federalreserve.gov/newsevents/speech/bowman20190211a.htm",
+    "filepath": "./data/fed_speeches\\2019\\20190211_A_Conversation_on_Community_Ba.txt",
+    "word_count": 1855
+  },
+  {
+    "year": "2019",
+    "date": "2019-02-10",
+    "title": "Ideas of Order: Charting a Course for the Financial Stability Board",
+    "speaker": "Vice Chairman for Supervision and Chair of the Financial Stability Board Randal K. Quarles",
+    "location": "An official website of the United States Government",
+    "url": "https://www.federalreserve.gov/newsevents/speech/quarles20190210a.htm",
+    "filepath": "./data/fed_speeches\\2019\\20190210_Ideas_of_Order__Charting_a_Cou.txt",
+    "word_count": 2564
+  },
+  {
+    "year": "2019",
+    "date": "2019-02-06",
+    "title": "Welcoming Remarks",
+    "speaker": "Chairman Jerome H. Powell",
+    "location": "An official website of the United States Government",
+    "url": "https://www.federalreserve.gov/newsevents/speech/powell20190206a.htm",
+    "filepath": "./data/fed_speeches\\2019\\20190206_Welcoming_Remarks.txt",
+    "word_count": 930
+  },
+  {
+    "year": "2019",
+    "date": "2019-02-06",
+    "title": "Inviting Participation: The Public's Role in Stress Testing's Next Chapter",
+    "speaker": "Vice Chairman for Supervision Randal K. Quarles",
+    "location": "An official website of the United States Government",
+    "url": "https://www.federalreserve.gov/newsevents/speech/quarles20190206a.htm",
+    "filepath": "./data/fed_speeches\\2019\\20190206_Inviting_Participation__The_Pu.txt",
+    "word_count": 1313
+  },
+  {
+    "year": "2019",
+    "date": "2019-02-01",
+    "title": "Strengthening the Community Reinvestment Act: What Are We Learning?",
+    "speaker": "Governor Lael Brainard",
+    "location": "An official website of the United States Government",
+    "url": "https://www.federalreserve.gov/newsevents/speech/brainard20190201a.htm",
+    "filepath": "./data/fed_speeches\\2019\\20190201_Strengthening_the_Community_Re.txt",
+    "word_count": 1362
+  },
+  {
+    "year": "2019",
+    "date": "2019-01-10",
+    "title": "Monetary Policy Outlook for 2019",
+    "speaker": "Vice Chairman Richard H. Clarida",
+    "location": "An official website of the United States Government",
+    "url": "https://www.federalreserve.gov/newsevents/speech/clarida20190110a.htm",
+    "filepath": "./data/fed_speeches\\2019\\20190110_Monetary_Policy_Outlook_for_20.txt",
+    "word_count": 2511
+  },
+  {
+    "year": "2019",
+    "date": "2019-01-09",
+    "title": "Insurance Supervision and International Engagement",
+    "speaker": "Vice Chairman for Supervision Randal K. Quarles",
+    "location": "An official website of the United States Government",
+    "url": "https://www.federalreserve.gov/newsevents/speech/quarles20190109a.htm",
+    "filepath": "./data/fed_speeches\\2019\\20190109_Insurance_Supervision_and_Inte.txt",
+    "word_count": 2734
+  },
+  {
+    "year": "2024",
+    "date": "2024-12-03",
+    "title": "A Year in Review: A Tale of Two Supply Shocks",
+    "speaker": "Governor Adriana D. Kugler",
+    "location": "An official website of the United States Government",
+    "url": "https://www.federalreserve.gov/newsevents/speech/kugler20241203a.htm",
+    "filepath": "./data/fed_speeches\\2024\\20241203_A_Year_in_Review__A_Tale_of_Tw.txt",
+    "word_count": 2663
+  },
+  {
+    "year": "2024",
+    "date": "2024-12-02",
+    "title": "Cut or Skip?",
+    "speaker": "Governor Christopher J. Waller",
+    "location": "An official website of the United States Government",
+    "url": "https://www.federalreserve.gov/newsevents/speech/waller20241202a.htm",
+    "filepath": "./data/fed_speeches\\2024\\20241202_Cut_or_Skip_.txt",
+    "word_count": 2211
+  },
+  {
+    "year": "2024",
+    "date": "2024-11-22",
+    "title": "Artificial Intelligence in the Financial System",
+    "speaker": "Governor Michelle W. Bowman",
+    "location": "An official website of the United States Government",
+    "url": "https://www.federalreserve.gov/newsevents/speech/bowman20241122a.htm",
+    "filepath": "./data/fed_speeches\\2024\\20241122_Artificial_Intelligence_in_the.txt",
+    "word_count": 3082
+  },
+  {
+    "year": "2024",
+    "date": "2024-11-20",
+    "title": "Approaching Policymaking Pragmatically",
+    "speaker": "Governor Michelle W. Bowman",
+    "location": "An official website of the United States Government",
+    "url": "https://www.federalreserve.gov/newsevents/speech/bowman20241120a.htm",
+    "filepath": "./data/fed_speeches\\2024\\20241120_Approaching_Policymaking_Pragm.txt",
+    "word_count": 76
+  },
+  {
+    "year": "2024",
+    "date": "2024-11-20",
+    "title": "Economic Outlook",
+    "speaker": "Governor Lisa D. Cook",
+    "location": "An official website of the United States Government",
+    "url": "https://www.federalreserve.gov/newsevents/speech/cook20241120a.htm",
+    "filepath": "./data/fed_speeches\\2024\\20241120_Economic_Outlook.txt",
+    "word_count": 661
+  },
+  {
+    "year": "2024",
+    "date": "2024-11-14",
+    "title": "Economic Outlook",
+    "speaker": "Chair Jerome H. Powell",
+    "location": "An official website of the United States Government",
+    "url": "https://www.federalreserve.gov/newsevents/speech/powell20241114a.htm",
+    "filepath": "./data/fed_speeches\\2024\\20241114_Economic_Outlook.txt",
+    "word_count": 971
+  },
+  {
+    "year": "2024",
+    "date": "2024-11-14",
+    "title": "Central Bank Independence and the Conduct of Monetary Policy",
+    "speaker": "Governor Adriana D. Kugler",
+    "location": "An official website of the United States Government",
+    "url": "https://www.federalreserve.gov/newsevents/speech/kugler20241114a.htm",
+    "filepath": "./data/fed_speeches\\2024\\20241114_Central_Bank_Independence_and_.txt",
+    "word_count": 1595
+  },
+  {
+    "year": "2024",
+    "date": "2024-11-12",
+    "title": "What Roles Should the Private Sector and the Federal Reserve Play in Payments?",
+    "speaker": "Governor Christopher J. Waller",
+    "location": "An official website of the United States Government",
+    "url": "https://www.federalreserve.gov/newsevents/speech/waller20241112a.htm",
+    "filepath": "./data/fed_speeches\\2024\\20241112_What_Roles_Should_the_Private_.txt",
+    "word_count": 2289
+  },
+  {
+    "year": "2024",
+    "date": "2024-10-23",
+    "title": "Opening Remarks",
+    "speaker": "Governor Michelle W. Bowman",
+    "location": "An official website of the United States Government",
+    "url": "https://www.federalreserve.gov/newsevents/speech/bowman20241023a.htm",
+    "filepath": "./data/fed_speeches\\2024\\20241023_Opening_Remarks.txt",
+    "word_count": 910
+  },
+  {
+    "year": "2024",
+    "date": "2024-10-18",
+    "title": "Centralized and Decentralized Finance: Substitutes or Complements?",
+    "speaker": "Governor Christopher J. Waller",
+    "location": "An official website of the United States Government",
+    "url": "https://www.federalreserve.gov/newsevents/speech/waller20241018a.htm",
+    "filepath": "./data/fed_speeches\\2024\\20241018_Centralized_and_Decentralized_.txt",
+    "word_count": 2071
+  },
+  {
+    "year": "2024",
+    "date": "2024-10-14",
+    "title": "Thoughts on the Economy and Policy Rules at the Federal Open Market Committee",
+    "speaker": "Governor Christopher J. Waller",
+    "location": "An official website of the United States Government",
+    "url": "https://www.federalreserve.gov/newsevents/speech/waller20241014a.htm",
+    "filepath": "./data/fed_speeches\\2024\\20241014_Thoughts_on_the_Economy_and_Po.txt",
+    "word_count": 3036
+  },
+  {
+    "year": "2024",
+    "date": "2024-10-11",
+    "title": "Challenges to the Community Banking Model",
+    "speaker": "Governor Michelle W. Bowman",
+    "location": "An official website of the United States Government",
+    "url": "https://www.federalreserve.gov/newsevents/speech/bowman20241011a.htm",
+    "filepath": "./data/fed_speeches\\2024\\20241011_Challenges_to_the_Community_Ba.txt",
+    "word_count": 2280
+  },
+  {
+    "year": "2024",
+    "date": "2024-10-10",
+    "title": "Entrepreneurs, Innovation, and Participation",
+    "speaker": "Governor Lisa D. Cook",
+    "location": "An official website of the United States Government",
+    "url": "https://www.federalreserve.gov/newsevents/speech/cook20241010a.htm",
+    "filepath": "./data/fed_speeches\\2024\\20241010_Entrepreneurs__Innovation__and.txt",
+    "word_count": 922
+  },
+  {
+    "year": "2024",
+    "date": "2024-10-09",
+    "title": "The Fed's Discount Window: 1990 to the Present",
+    "speaker": "Vice Chair Philip N. Jefferson",
+    "location": "An official website of the United States Government",
+    "url": "https://www.federalreserve.gov/newsevents/speech/jefferson20241009a.htm",
+    "filepath": "./data/fed_speeches\\2024\\20241009_The_Fed_s_Discount_Window__199.txt",
+    "word_count": 3006
+  },
+  {
+    "year": "2024",
+    "date": "2024-10-08",
+    "title": "A History of the Fed's Discount Window: 1913\u00e2\u0080\u00932000",
+    "speaker": "Vice Chair Philip N. Jefferson",
+    "location": "An official website of the United States Government",
+    "url": "https://www.federalreserve.gov/newsevents/speech/jefferson20241008a.htm",
+    "filepath": "./data/fed_speeches\\2024\\20241008_A_History_of_the_Fed_s_Discoun.txt",
+    "word_count": 3261
+  },
+  {
+    "year": "2024",
+    "date": "2024-10-08",
+    "title": "The Global Fight Against Inflation",
+    "speaker": "Governor Adriana D. Kugler",
+    "location": "An official website of the United States Government",
+    "url": "https://www.federalreserve.gov/newsevents/speech/kugler20241008a.htm",
+    "filepath": "./data/fed_speeches\\2024\\20241008_The_Global_Fight_Against_Infla.txt",
+    "word_count": 550
+  },
+  {
+    "year": "2024",
+    "date": "2024-10-02",
+    "title": "Building a Community Banking Framework for the Future",
+    "speaker": "Governor Michelle W. Bowman",
+    "location": "An official website of the United States Government",
+    "url": "https://www.federalreserve.gov/newsevents/speech/bowman20241002a.htm",
+    "filepath": "./data/fed_speeches\\2024\\20241002_Building_a_Community_Banking_F.txt",
+    "word_count": 5339
+  },
+  {
+    "year": "2024",
+    "date": "2024-10-01",
+    "title": "Artificial Intelligence, Big Data, and the Path Ahead for Productivity",
+    "speaker": "Governor Lisa D. Cook",
+    "location": "An official website of the United States Government",
+    "url": "https://www.federalreserve.gov/newsevents/speech/cook20241001a.htm",
+    "filepath": "./data/fed_speeches\\2024\\20241001_Artificial_Intelligence__Big_D.txt",
+    "word_count": 2217
+  },
+  {
+    "year": "2024",
+    "date": "2024-09-30",
+    "title": "Economic Outlook",
+    "speaker": "Chair Jerome H. Powell",
+    "location": "An official website of the United States Government",
+    "url": "https://www.federalreserve.gov/newsevents/speech/powell20240930a.htm",
+    "filepath": "./data/fed_speeches\\2024\\20240930_Economic_Outlook.txt",
+    "word_count": 881
+  },
+  {
+    "year": "2024",
+    "date": "2024-09-30",
+    "title": "Recent Views on Monetary Policy and the Economic Outlook",
+    "speaker": "Governor Michelle W. Bowman",
+    "location": "An official website of the United States Government",
+    "url": "https://www.federalreserve.gov/newsevents/speech/bowman20240930a.htm",
+    "filepath": "./data/fed_speeches\\2024\\20240930_Recent_Views_on_Monetary_Polic.txt",
+    "word_count": 2235
+  },
+  {
+    "year": "2024",
+    "date": "2024-09-26",
+    "title": "What Will Artificial Intelligence Mean for America\u00e2\u0080\u0099s Workers?",
+    "speaker": "Governor Lisa D. Cook",
+    "location": "An official website of the United States Government",
+    "url": "https://www.federalreserve.gov/newsevents/speech/cook20240926a.htm",
+    "filepath": "./data/fed_speeches\\2024\\20240926_What_Will_Artificial_Intellige.txt",
+    "word_count": 3106
+  },
+  {
+    "year": "2024",
+    "date": "2024-09-26",
+    "title": "Supporting Market Resilience and Financial Stability",
+    "speaker": "Vice Chair for Supervision Michael S. Barr",
+    "location": "An official website of the United States Government",
+    "url": "https://www.federalreserve.gov/newsevents/speech/barr20240926a.htm",
+    "filepath": "./data/fed_speeches\\2024\\20240926_Supporting_Market_Resilience_a.txt",
+    "word_count": 2393
+  },
+  {
+    "year": "2024",
+    "date": "2024-09-26",
+    "title": "Opening Remarks",
+    "speaker": "Chair Jerome H. Powell",
+    "location": "An official website of the United States Government",
+    "url": "https://www.federalreserve.gov/newsevents/speech/powell20240926a.htm",
+    "filepath": "./data/fed_speeches\\2024\\20240926_Opening_Remarks.txt",
+    "word_count": 485
+  },
+  {
+    "year": "2024",
+    "date": "2024-09-26",
+    "title": "Video",
+    "speaker": "Chair Jerome H. Powell",
+    "location": "An official website of the United States Government",
+    "url": "https://www.federalreserve.gov/newsevents/speech/powell20240926a.htm",
+    "filepath": "./data/fed_speeches\\2024\\20240926_Video.txt",
+    "word_count": 485
+  },
+  {
+    "year": "2024",
+    "date": "2024-09-26",
+    "title": "Recent Views on Monetary Policy and the Economic Outlook",
+    "speaker": "Governor Michelle W. Bowman",
+    "location": "An official website of the United States Government",
+    "url": "https://www.federalreserve.gov/newsevents/speech/bowman20240926a.htm",
+    "filepath": "./data/fed_speeches\\2024\\20240926_Recent_Views_on_Monetary_Polic.txt",
+    "word_count": 2269
+  },
+  {
+    "year": "2024",
+    "date": "2024-09-25",
+    "title": "How We Got Here:  A Perspective on Inflation and the Labor Market",
+    "speaker": "Governor Adriana D. Kugler",
+    "location": "An official website of the United States Government",
+    "url": "https://www.federalreserve.gov/newsevents/speech/kugler20240925a.htm",
+    "filepath": "./data/fed_speeches\\2024\\20240925_How_We_Got_Here___A_Perspectiv.txt",
+    "word_count": 2961
+  },
+  {
+    "year": "2024",
+    "date": "2024-09-24",
+    "title": "Recent Views on Monetary Policy and the Economic Outlook",
+    "speaker": "Governor Michelle W. Bowman",
+    "location": "An official website of the United States Government",
+    "url": "https://www.federalreserve.gov/newsevents/speech/bowman20240924a.htm",
+    "filepath": "./data/fed_speeches\\2024\\20240924_Recent_Views_on_Monetary_Polic.txt",
+    "word_count": 2261
+  },
+  {
+    "year": "2024",
+    "date": "2024-09-20",
+    "title": "Statement by Governor Michelle W. Bowman",
+    "speaker": "Governor Michelle W. Bowman",
+    "location": "An official website of the United States Government",
+    "url": "https://www.federalreserve.gov/newsevents/speech/bowman20240920a.htm",
+    "filepath": "./data/fed_speeches\\2024\\20240920_Statement_by_Governor_Michelle.txt",
+    "word_count": 484
+  },
+  {
+    "year": "2024",
+    "date": "2024-09-10",
+    "title": "The Future of Stress Testing and the Stress Capital Buffer Framework",
+    "speaker": "Governor Michelle W. Bowman",
+    "location": "An official website of the United States Government",
+    "url": "https://www.federalreserve.gov/newsevents/speech/bowman20240910a.htm",
+    "filepath": "./data/fed_speeches\\2024\\20240910_The_Future_of_Stress_Testing_a.txt",
+    "word_count": 3919
+  },
+  {
+    "year": "2024",
+    "date": "2024-09-10",
+    "title": "The Next Steps on Capital",
+    "speaker": "Vice Chair for Supervision Michael S. Barr",
+    "location": "An official website of the United States Government",
+    "url": "https://www.federalreserve.gov/newsevents/speech/barr20240910a.htm",
+    "filepath": "./data/fed_speeches\\2024\\20240910_The_Next_Steps_on_Capital.txt",
+    "word_count": 3093
+  },
+  {
+    "year": "2024",
+    "date": "2024-09-06",
+    "title": "The Time Has Come",
+    "speaker": "Governor Christopher J. Waller",
+    "location": "An official website of the United States Government",
+    "url": "https://www.federalreserve.gov/newsevents/speech/waller20240906a.htm",
+    "filepath": "./data/fed_speeches\\2024\\20240906_The_Time_Has_Come.txt",
+    "word_count": 267
+  },
+  {
+    "year": "2024",
+    "date": "2024-08-28",
+    "title": "Interlinking Fast Payment Systems",
+    "speaker": "Governor Christopher J. Waller",
+    "location": "An official website of the United States Government",
+    "url": "https://www.federalreserve.gov/newsevents/speech/waller20240828a.htm",
+    "filepath": "./data/fed_speeches\\2024\\20240828_Interlinking_Fast_Payment_Syst.txt",
+    "word_count": 1854
+  },
+  {
+    "year": "2024",
+    "date": "2024-08-23",
+    "title": "Review and Outlook",
+    "speaker": "Chair Jerome H. Powell",
+    "location": "An official website of the United States Government",
+    "url": "https://www.federalreserve.gov/newsevents/speech/powell20240823a.htm",
+    "filepath": "./data/fed_speeches\\2024\\20240823_Review_and_Outlook.txt",
+    "word_count": 1012
+  },
+  {
+    "year": "2024",
+    "date": "2024-08-20",
+    "title": "Remarks on the Economic Outlook and Financial Inclusion",
+    "speaker": "Governor Michelle W. Bowman",
+    "location": "An official website of the United States Government",
+    "url": "https://www.federalreserve.gov/newsevents/speech/bowman20240820a.htm",
+    "filepath": "./data/fed_speeches\\2024\\20240820_Remarks_on_the_Economic_Outloo.txt",
+    "word_count": 2956
+  },
+  {
+    "year": "2024",
+    "date": "2024-08-19",
+    "title": "Opening Remarks",
+    "speaker": "Governor Christopher J. Waller",
+    "location": "An official website of the United States Government",
+    "url": "https://www.federalreserve.gov/newsevents/speech/waller20240819a.htm",
+    "filepath": "./data/fed_speeches\\2024\\20240819_Opening_Remarks.txt",
+    "word_count": 1023
+  },
+  {
+    "year": "2024",
+    "date": "2024-08-10",
+    "title": "Update on the Economic Outlook, and Perspective on Bank Culture, M&A, and Liquidity",
+    "speaker": "Governor Michelle W. Bowman",
+    "location": "An official website of the United States Government",
+    "url": "https://www.federalreserve.gov/newsevents/speech/bowman20240810a.htm",
+    "filepath": "./data/fed_speeches\\2024\\20240810_Update_on_the_Economic_Outlook.txt",
+    "word_count": 4663
+  },
+  {
+    "year": "2024",
+    "date": "2024-07-24",
+    "title": "Opening Remarks",
+    "speaker": "Governor Michelle W. Bowman",
+    "location": "An official website of the United States Government",
+    "url": "https://www.federalreserve.gov/newsevents/speech/bowman20240724a.htm",
+    "filepath": "./data/fed_speeches\\2024\\20240724_Opening_Remarks.txt",
+    "word_count": 708
+  },
+  {
+    "year": "2024",
+    "date": "2024-07-24",
+    "title": "Video",
+    "speaker": "Governor Michelle W. Bowman",
+    "location": "An official website of the United States Government",
+    "url": "https://www.federalreserve.gov/newsevents/speech/bowman20240724a.htm",
+    "filepath": "./data/fed_speeches\\2024\\20240724_Video.txt",
+    "word_count": 708
+  },
+  {
+    "year": "2024",
+    "date": "2024-07-18",
+    "title": "Liquidity, Supervision, and Regulatory Reform",
+    "speaker": "Governor Michelle W. Bowman",
+    "location": "An official website of the United States Government",
+    "url": "https://www.federalreserve.gov/newsevents/speech/bowman20240718a.htm",
+    "filepath": "./data/fed_speeches\\2024\\20240718_Liquidity__Supervision__and_Re.txt",
+    "word_count": 3874
+  },
+  {
+    "year": "2024",
+    "date": "2024-07-17",
+    "title": "Getting Closer",
+    "speaker": "Governor Christopher J. Waller",
+    "location": "An official website of the United States Government",
+    "url": "https://www.federalreserve.gov/newsevents/speech/waller20240717a.htm",
+    "filepath": "./data/fed_speeches\\2024\\20240717_Getting_Closer.txt",
+    "word_count": 1153
+  },
+  {
+    "year": "2024",
+    "date": "2024-07-16",
+    "title": "The Challenges Facing Economic Measurement and Creative Solutions",
+    "speaker": "Governor Adriana D. Kugler",
+    "location": "An official website of the United States Government",
+    "url": "https://www.federalreserve.gov/newsevents/speech/kugler20240716a.htm",
+    "filepath": "./data/fed_speeches\\2024\\20240716_The_Challenges_Facing_Economic.txt",
+    "word_count": 3801
+  },
+  {
+    "year": "2024",
+    "date": "2024-07-10",
+    "title": "Common Inflation and Monetary Policy Challenges across Countries",
+    "speaker": "Governor Lisa D. Cook",
+    "location": "An official website of the United States Government",
+    "url": "https://www.federalreserve.gov/newsevents/speech/cook20240710a.htm",
+    "filepath": "./data/fed_speeches\\2024\\20240710_Common_Inflation_and_Monetary_.txt",
+    "word_count": 293
+  },
+  {
+    "year": "2024",
+    "date": "2024-07-10",
+    "title": "Opening Remarks",
+    "speaker": "Governor Michelle W. Bowman",
+    "location": "An official website of the United States Government",
+    "url": "https://www.federalreserve.gov/newsevents/speech/bowman20240710a.htm",
+    "filepath": "./data/fed_speeches\\2024\\20240710_Opening_Remarks.txt",
+    "word_count": 675
+  },
+  {
+    "year": "2024",
+    "date": "2024-07-09",
+    "title": "Promoting an Inclusive Financial System",
+    "speaker": "Governor Michelle W. Bowman",
+    "location": "An official website of the United States Government",
+    "url": "https://www.federalreserve.gov/newsevents/speech/bowman20240709a.htm",
+    "filepath": "./data/fed_speeches\\2024\\20240709_Promoting_an_Inclusive_Financi.txt",
+    "word_count": 1393
+  },
+  {
+    "year": "2024",
+    "date": "2024-07-09",
+    "title": "Financial Inclusion: Past, Present, and Hopes for the Future",
+    "speaker": "Vice Chair for Supervision Michael S. Barr",
+    "location": "An official website of the United States Government",
+    "url": "https://www.federalreserve.gov/newsevents/speech/barr20240709a.htm",
+    "filepath": "./data/fed_speeches\\2024\\20240709_Financial_Inclusion__Past__Pre.txt",
+    "word_count": 10
+  },
+  {
+    "year": "2024",
+    "date": "2024-06-27",
+    "title": "Brief Remarks on the Economy, Monetary Policy, and Bank Regulation",
+    "speaker": "Governor Michelle W. Bowman",
+    "location": "An official website of the United States Government",
+    "url": "https://www.federalreserve.gov/newsevents/speech/bowman20240627a.htm",
+    "filepath": "./data/fed_speeches\\2024\\20240627_Brief_Remarks_on_the_Economy__.txt",
+    "word_count": 2849
+  },
+  {
+    "year": "2024",
+    "date": "2024-06-26",
+    "title": "The Consequences of Bank Capital Reform",
+    "speaker": "Governor Michelle W. Bowman",
+    "location": "An official website of the United States Government",
+    "url": "https://www.federalreserve.gov/newsevents/speech/bowman20240626a.htm",
+    "filepath": "./data/fed_speeches\\2024\\20240626_The_Consequences_of_Bank_Capit.txt",
+    "word_count": 2466
+  },
+  {
+    "year": "2024",
+    "date": "2024-06-25",
+    "title": "Opening Remarks",
+    "speaker": "Governor Michelle W. Bowman",
+    "location": "An official website of the United States Government",
+    "url": "https://www.federalreserve.gov/newsevents/speech/bowman20240625b.htm",
+    "filepath": "./data/fed_speeches\\2024\\20240625_Opening_Remarks.txt",
+    "word_count": 766
+  },
+  {
+    "year": "2024",
+    "date": "2024-06-25",
+    "title": "Video",
+    "speaker": "Governor Michelle W. Bowman",
+    "location": "An official website of the United States Government",
+    "url": "https://www.federalreserve.gov/newsevents/speech/bowman20240625b.htm",
+    "filepath": "./data/fed_speeches\\2024\\20240625_Video.txt",
+    "word_count": 766
+  },
+  {
+    "year": "2024",
+    "date": "2024-06-25",
+    "title": "Moving Toward Better Balance and Implications for Monetary Policy",
+    "speaker": "Governor Lisa D. Cook",
+    "location": "An official website of the United States Government",
+    "url": "https://www.federalreserve.gov/newsevents/speech/cook20240625a.htm",
+    "filepath": "./data/fed_speeches\\2024\\20240625_Moving_Toward_Better_Balance_a.txt",
+    "word_count": 1349
+  },
+  {
+    "year": "2024",
+    "date": "2024-06-25",
+    "title": "Perspectives on U.S. Monetary Policy and Bank Capital Reform",
+    "speaker": "Governor Michelle W. Bowman",
+    "location": "An official website of the United States Government",
+    "url": "https://www.federalreserve.gov/newsevents/speech/bowman20240625a.htm",
+    "filepath": "./data/fed_speeches\\2024\\20240625_Perspectives_on_U_S__Monetary_.txt",
+    "word_count": 12
+  },
+  {
+    "year": "2024",
+    "date": "2024-06-24",
+    "title": "Welcoming Remarks",
+    "speaker": "Governor Christopher J. Waller",
+    "location": "An official website of the United States Government",
+    "url": "https://www.federalreserve.gov/newsevents/speech/waller20240624a.htm",
+    "filepath": "./data/fed_speeches\\2024\\20240624_Welcoming_Remarks.txt",
+    "word_count": 767
+  },
+  {
+    "year": "2024",
+    "date": "2024-06-18",
+    "title": "Some Reasons for Optimism about Inflation",
+    "speaker": "Governor Adriana D. Kugler",
+    "location": "An official website of the United States Government",
+    "url": "https://www.federalreserve.gov/newsevents/speech/kugler20240618a.htm",
+    "filepath": "./data/fed_speeches\\2024\\20240618_Some_Reasons_for_Optimism_abou.txt",
+    "word_count": 1891
+  },
+  {
+    "year": "2024",
+    "date": "2024-06-17",
+    "title": "A Transformative Experience",
+    "speaker": "Governor Lisa D. Cook",
+    "location": "An official website of the United States Government",
+    "url": "https://www.federalreserve.gov/newsevents/speech/cook20240617a.htm",
+    "filepath": "./data/fed_speeches\\2024\\20240617_A_Transformative_Experience.txt",
+    "word_count": 1591
+  },
+  {
+    "year": "2024",
+    "date": "2024-06-17",
+    "title": "Innovation in the Financial System",
+    "speaker": "Governor Michelle W. Bowman",
+    "location": "An official website of the United States Government",
+    "url": "https://www.federalreserve.gov/newsevents/speech/bowman20240617a.htm",
+    "filepath": "./data/fed_speeches\\2024\\20240617_Innovation_in_the_Financial_Sy.txt",
+    "word_count": 3763
+  },
+  {
+    "year": "2024",
+    "date": "2024-06-14",
+    "title": "Lessons from the American Economic Association Summer Program",
+    "speaker": "Governor Lisa D. Cook",
+    "location": "An official website of the United States Government",
+    "url": "https://www.federalreserve.gov/newsevents/speech/cook20240614a.htm",
+    "filepath": "./data/fed_speeches\\2024\\20240614_Lessons_from_the_American_Econ.txt",
+    "word_count": 1274
+  },
+  {
+    "year": "2024",
+    "date": "2024-06-07",
+    "title": "A New Class of Trailblazers",
+    "speaker": "Governor Lisa D. Cook",
+    "location": "An official website of the United States Government",
+    "url": "https://www.federalreserve.gov/newsevents/speech/cook20240607a.htm",
+    "filepath": "./data/fed_speeches\\2024\\20240607_A_New_Class_of_Trailblazers.txt",
+    "word_count": 1186
+  },
+  {
+    "year": "2024",
+    "date": "2024-05-28",
+    "title": "The Federal Reserve's Balance Sheet as a Monetary Policy Tool:  Past Lessons and Future Considerations",
+    "speaker": "Governor Michelle W. Bowman",
+    "location": "An official website of the United States Government",
+    "url": "https://www.federalreserve.gov/newsevents/speech/bowman20240528a.htm",
+    "filepath": "./data/fed_speeches\\2024\\20240528_The_Federal_Reserve_s_Balance_.txt",
+    "word_count": 719
+  },
+  {
+    "year": "2024",
+    "date": "2024-05-24",
+    "title": "Some Thoughts on r*:  Why Did It Fall and Will It Rise?",
+    "speaker": "Governor Christopher J. Waller",
+    "location": "An official website of the United States Government",
+    "url": "https://www.federalreserve.gov/newsevents/speech/waller20240524a.htm",
+    "filepath": "./data/fed_speeches\\2024\\20240524_Some_Thoughts_on_r____Why_Did_.txt",
+    "word_count": 3345
+  },
+  {
+    "year": "2024",
+    "date": "2024-05-21",
+    "title": "Little by Little, Progress Seems to be Resuming.",
+    "speaker": "Governor Christopher J. Waller",
+    "location": "An official website of the United States Government",
+    "url": "https://www.federalreserve.gov/newsevents/speech/waller20240521a.htm",
+    "filepath": "./data/fed_speeches\\2024\\20240521_Little_by_Little__Progress_See.txt",
+    "word_count": 2328
+  },
+  {
+    "year": "2024",
+    "date": "2024-05-20",
+    "title": "U.S. Economic Outlook and Housing Price Dynamics",
+    "speaker": "Vice Chair Philip N. Jefferson",
+    "location": "An official website of the United States Government",
+    "url": "https://www.federalreserve.gov/newsevents/speech/jefferson20240520a.htm",
+    "filepath": "./data/fed_speeches\\2024\\20240520_U_S__Economic_Outlook_and_Hous.txt",
+    "word_count": 951
+  },
+  {
+    "year": "2024",
+    "date": "2024-05-20",
+    "title": "Welcoming Remarks on the International Role of the U.S. Dollar",
+    "speaker": "Governor Christopher J. Waller",
+    "location": "An official website of the United States Government",
+    "url": "https://www.federalreserve.gov/newsevents/speech/waller20240520a.htm",
+    "filepath": "./data/fed_speeches\\2024\\20240520_Welcoming_Remarks_on_the_Inter.txt",
+    "word_count": 1145
+  },
+  {
+    "year": "2024",
+    "date": "2024-05-20",
+    "title": "On Building a Resilient Regulatory Framework",
+    "speaker": "Vice Chair for Supervision Michael S. Barr",
+    "location": "An official website of the United States Government",
+    "url": "https://www.federalreserve.gov/newsevents/speech/barr20240520a.htm",
+    "filepath": "./data/fed_speeches\\2024\\20240520_On_Building_a_Resilient_Regula.txt",
+    "word_count": 2784
+  },
+  {
+    "year": "2024",
+    "date": "2024-05-19",
+    "title": "Georgetown University Law Center Commencement Address",
+    "speaker": "Chair Jerome H. Powell",
+    "location": "An official website of the United States Government",
+    "url": "https://www.federalreserve.gov/newsevents/speech/powell20240519a.htm",
+    "filepath": "./data/fed_speeches\\2024\\20240519_Georgetown_University_Law_Cent.txt",
+    "word_count": 1832
+  },
+  {
+    "year": "2024",
+    "date": "2024-05-18",
+    "title": "On the Road Ahead, Cherish the Detours",
+    "speaker": "Governor Adriana D. Kugler",
+    "location": "An official website of the United States Government",
+    "url": "https://www.federalreserve.gov/newsevents/speech/kugler20240518a.htm",
+    "filepath": "./data/fed_speeches\\2024\\20240518_On_the_Road_Ahead__Cherish_the.txt",
+    "word_count": 2180
+  },
+  {
+    "year": "2024",
+    "date": "2024-05-17",
+    "title": "Brief Remarks on the Economy, Monetary Policy, and Bank Regulation",
+    "speaker": "Governor Michelle W. Bowman",
+    "location": "An official website of the United States Government",
+    "url": "https://www.federalreserve.gov/newsevents/speech/bowman20240517a.htm",
+    "filepath": "./data/fed_speeches\\2024\\20240517_Brief_Remarks_on_the_Economy__.txt",
+    "word_count": 3730
+  },
+  {
+    "year": "2024",
+    "date": "2024-05-17",
+    "title": "Payments Innovation, Technical Standards, and the Federal Reserve's Roles",
+    "speaker": "Governor Christopher J. Waller",
+    "location": "An official website of the United States Government",
+    "url": "https://www.federalreserve.gov/newsevents/speech/waller20240517a.htm",
+    "filepath": "./data/fed_speeches\\2024\\20240517_Payments_Innovation__Technical.txt",
+    "word_count": 1784
+  },
+  {
+    "year": "2024",
+    "date": "2024-05-15",
+    "title": "Innovation and the Evolving Financial Landscape",
+    "speaker": "Governor Michelle W. Bowman",
+    "location": "An official website of the United States Government",
+    "url": "https://www.federalreserve.gov/newsevents/speech/bowman20240515a.htm",
+    "filepath": "./data/fed_speeches\\2024\\20240515_Innovation_and_the_Evolving_Fi.txt",
+    "word_count": 2301
+  },
+  {
+    "year": "2024",
+    "date": "2024-05-14",
+    "title": "Growth and Change at Community Development Financial Institutions",
+    "speaker": "Governor Lisa D. Cook",
+    "location": "An official website of the United States Government",
+    "url": "https://www.federalreserve.gov/newsevents/speech/cook20240514a.htm",
+    "filepath": "./data/fed_speeches\\2024\\20240514_Growth_and_Change_at_Community.txt",
+    "word_count": 1647
+  },
+  {
+    "year": "2024",
+    "date": "2024-05-13",
+    "title": "Communicating about Monetary Policy",
+    "speaker": "Vice Chair Philip N. Jefferson",
+    "location": "An official website of the United States Government",
+    "url": "https://www.federalreserve.gov/newsevents/speech/jefferson20240513a.htm",
+    "filepath": "./data/fed_speeches\\2024\\20240513_Communicating_about_Monetary_P.txt",
+    "word_count": 2311
+  },
+  {
+    "year": "2024",
+    "date": "2024-05-10",
+    "title": "Commencement Remarks",
+    "speaker": "Vice Chair for Supervision Michael S. Barr",
+    "location": "An official website of the United States Government",
+    "url": "https://www.federalreserve.gov/newsevents/speech/barr20240510a.htm",
+    "filepath": "./data/fed_speeches\\2024\\20240510_Commencement_Remarks.txt",
+    "word_count": 1574
+  },
+  {
+    "year": "2024",
+    "date": "2024-05-10",
+    "title": "Financial Stability Risks: Resiliency and the Role of Regulators",
+    "speaker": "Governor Michelle W. Bowman",
+    "location": "An official website of the United States Government",
+    "url": "https://www.federalreserve.gov/newsevents/speech/bowman20240510a.htm",
+    "filepath": "./data/fed_speeches\\2024\\20240510_Financial_Stability_Risks__Res.txt",
+    "word_count": 3979
+  },
+  {
+    "year": "2024",
+    "date": "2024-05-08",
+    "title": "Current Assessment of Financial Stability",
+    "speaker": "Governor Lisa D. Cook",
+    "location": "An official website of the United States Government",
+    "url": "https://www.federalreserve.gov/newsevents/speech/cook20240508a.htm",
+    "filepath": "./data/fed_speeches\\2024\\20240508_Current_Assessment_of_Financia.txt",
+    "word_count": 591
+  },
+  {
+    "year": "2024",
+    "date": "2024-05-04",
+    "title": "\"Oh, the Places You\u00e2\u0080\u0099ll Go and the Things You\u00e2\u0080\u0099ll Do\"",
+    "speaker": "Governor Lisa D. Cook",
+    "location": "An official website of the United States Government",
+    "url": "https://www.federalreserve.gov/newsevents/speech/cook20240504a.htm",
+    "filepath": "./data/fed_speeches\\2024\\20240504__Oh__the_Places_You\u00e2__ll_Go_an.txt",
+    "word_count": 1852
+  },
+  {
+    "year": "2024",
+    "date": "2024-05-03",
+    "title": "Brief Remarks on the Economy and Monetary Policy",
+    "speaker": "Governor Michelle W. Bowman",
+    "location": "An official website of the United States Government",
+    "url": "https://www.federalreserve.gov/newsevents/speech/bowman20240503a.htm",
+    "filepath": "./data/fed_speeches\\2024\\20240503_Brief_Remarks_on_the_Economy_a.txt",
+    "word_count": 985
+  },
+  {
+    "year": "2024",
+    "date": "2024-04-18",
+    "title": "Opening Remarks",
+    "speaker": "Governor Michelle W. Bowman",
+    "location": "An official website of the United States Government",
+    "url": "https://www.federalreserve.gov/newsevents/speech/bowman20240418a.htm",
+    "filepath": "./data/fed_speeches\\2024\\20240418_Opening_Remarks.txt",
+    "word_count": 1123
+  },
+  {
+    "year": "2024",
+    "date": "2024-04-16",
+    "title": "Economic Uncertainty and the Evolution of Monetary Policymaking",
+    "speaker": "Vice Chair Philip N. Jefferson",
+    "location": "An official website of the United States Government",
+    "url": "https://www.federalreserve.gov/newsevents/speech/jefferson20240416a.htm",
+    "filepath": "./data/fed_speeches\\2024\\20240416_Economic_Uncertainty_and_the_E.txt",
+    "word_count": 3057
+  },
+  {
+    "year": "2024",
+    "date": "2024-04-05",
+    "title": "Risks and Uncertainty in Monetary Policy: Current and Past Considerations",
+    "speaker": "Governor Michelle W. Bowman",
+    "location": "An official website of the United States Government",
+    "url": "https://www.federalreserve.gov/newsevents/speech/bowman20240405a.htm",
+    "filepath": "./data/fed_speeches\\2024\\20240405_Risks_and_Uncertainty_in_Monet.txt",
+    "word_count": 92
+  },
+  {
+    "year": "2024",
+    "date": "2024-04-04",
+    "title": "Enriching Data and Analysis in Economics with Real Life Experiences",
+    "speaker": "Governor Adriana D. Kugler",
+    "location": "An official website of the United States Government",
+    "url": "https://www.federalreserve.gov/newsevents/speech/kugler20240404a.htm",
+    "filepath": "./data/fed_speeches\\2024\\20240404_Enriching_Data_and_Analysis_in.txt",
+    "word_count": 2650
+  },
+  {
+    "year": "2024",
+    "date": "2024-04-03",
+    "title": "The Outlook for the U.S. Economy and Monetary Policy",
+    "speaker": "Governor Adriana D. Kugler",
+    "location": "An official website of the United States Government",
+    "url": "https://www.federalreserve.gov/newsevents/speech/kugler20240403a.htm",
+    "filepath": "./data/fed_speeches\\2024\\20240403_The_Outlook_for_the_U_S__Econo.txt",
+    "word_count": 160
+  },
+  {
+    "year": "2024",
+    "date": "2024-04-03",
+    "title": "Opening Remarks",
+    "speaker": "Chair Jerome H. Powell",
+    "location": "An official website of the United States Government",
+    "url": "https://www.federalreserve.gov/newsevents/speech/powell20240403a.htm",
+    "filepath": "./data/fed_speeches\\2024\\20240403_Opening_Remarks.txt",
+    "word_count": 1364
+  },
+  {
+    "year": "2024",
+    "date": "2024-04-03",
+    "title": "Bank Liquidity, Regulation, and the Fed's Role as Lender of Last Resort",
+    "speaker": "Governor Michelle W. Bowman",
+    "location": "An official website of the United States Government",
+    "url": "https://www.federalreserve.gov/newsevents/speech/bowman20240403a.htm",
+    "filepath": "./data/fed_speeches\\2024\\20240403_Bank_Liquidity__Regulation__an.txt",
+    "word_count": 3877
+  },
+  {
+    "year": "2024",
+    "date": "2024-04-02",
+    "title": "Bank Mergers and Acquisitions, and De Novo Bank Formation: Implications for the Future of the Banking System",
+    "speaker": "Governor Michelle W. Bowman",
+    "location": "An official website of the United States Government",
+    "url": "https://www.federalreserve.gov/newsevents/speech/bowman20240402a.htm",
+    "filepath": "./data/fed_speeches\\2024\\20240402_Bank_Mergers_and_Acquisitions_.txt",
+    "word_count": 3040
+  },
+  {
+    "year": "2024",
+    "date": "2024-04-01",
+    "title": "Hope, Promise, and Mentors",
+    "speaker": "Governor Lisa D. Cook",
+    "location": "An official website of the United States Government",
+    "url": "https://www.federalreserve.gov/newsevents/speech/cook20240401a.htm",
+    "filepath": "./data/fed_speeches\\2024\\20240401_Hope__Promise__and_Mentors.txt",
+    "word_count": 850
+  },
+  {
+    "year": "2024",
+    "date": "2024-03-27",
+    "title": "There\u00e2\u0080\u0099s Still No Rush",
+    "speaker": "Governor Christopher J. Waller",
+    "location": "An official website of the United States Government",
+    "url": "https://www.federalreserve.gov/newsevents/speech/waller20240327a.htm",
+    "filepath": "./data/fed_speeches\\2024\\20240327_There\u00e2__s_Still_No_Rush.txt",
+    "word_count": 2802
+  },
+  {
+    "year": "2024",
+    "date": "2024-03-25",
+    "title": "The Dual Mandate and the Balance of Risks",
+    "speaker": "Governor Lisa D. Cook",
+    "location": "An official website of the United States Government",
+    "url": "https://www.federalreserve.gov/newsevents/speech/cook20240325a.htm",
+    "filepath": "./data/fed_speeches\\2024\\20240325_The_Dual_Mandate_and_the_Balan.txt",
+    "word_count": 3396
+  },
+  {
+    "year": "2024",
+    "date": "2024-03-07",
+    "title": "Reflections on the Economy and Bank Regulation",
+    "speaker": "Governor Michelle W. Bowman",
+    "location": "An official website of the United States Government",
+    "url": "https://www.federalreserve.gov/newsevents/speech/bowman20240307a.htm",
+    "filepath": "./data/fed_speeches\\2024\\20240307_Reflections_on_the_Economy_and.txt",
+    "word_count": 190
+  },
+  {
+    "year": "2024",
+    "date": "2024-03-05",
+    "title": "Tailoring, Fidelity to the Rule of Law, and Unintended Consequences",
+    "speaker": "Governor Michelle W. Bowman",
+    "location": "An official website of the United States Government",
+    "url": "https://www.federalreserve.gov/newsevents/speech/bowman20240305a.htm",
+    "filepath": "./data/fed_speeches\\2024\\20240305_Tailoring__Fidelity_to_the_Rul.txt",
+    "word_count": 2345
+  },
+  {
+    "year": "2024",
+    "date": "2024-03-01",
+    "title": "Disinflation without a Rise in Unemployment?  What Is Different This Time Around",
+    "speaker": "Governor Adriana D. Kugler",
+    "location": "An official website of the United States Government",
+    "url": "https://www.federalreserve.gov/newsevents/speech/kugler20240301a.htm",
+    "filepath": "./data/fed_speeches\\2024\\20240301_Disinflation_without_a_Rise_in.txt",
+    "word_count": 3301
+  },
+  {
+    "year": "2024",
+    "date": "2024-03-01",
+    "title": "Thoughts on Quantitative Tightening, Including Remarks on the Paper \"Quantitative Tightening around the Globe:  What Have We Learned?\"",
+    "speaker": "Governor Christopher J. Waller",
+    "location": "An official website of the United States Government",
+    "url": "https://www.federalreserve.gov/newsevents/speech/waller20240301a.htm",
+    "filepath": "./data/fed_speeches\\2024\\20240301_Thoughts_on_Quantitative_Tight.txt",
+    "word_count": 3358
+  },
+  {
+    "year": "2024",
+    "date": "2024-02-27",
+    "title": "Reflections on the Economy and Bank Regulation",
+    "speaker": "Governor Michelle W. Bowman",
+    "location": "An official website of the United States Government",
+    "url": "https://www.federalreserve.gov/newsevents/speech/bowman20240227a.htm",
+    "filepath": "./data/fed_speeches\\2024\\20240227_Reflections_on_the_Economy_and.txt",
+    "word_count": 219
+  },
+  {
+    "year": "2024",
+    "date": "2024-02-27",
+    "title": "The Importance of Counterparty Credit Risk Management",
+    "speaker": "Vice Chair for Supervision Michael S. Barr",
+    "location": "An official website of the United States Government",
+    "url": "https://www.federalreserve.gov/newsevents/speech/barr20240227a.htm",
+    "filepath": "./data/fed_speeches\\2024\\20240227_The_Importance_of_Counterparty.txt",
+    "word_count": 2017
+  },
+  {
+    "year": "2024",
+    "date": "2024-02-22",
+    "title": "What\u00e2\u0080\u0099s the Rush?",
+    "speaker": "Governor Christopher J. Waller",
+    "location": "An official website of the United States Government",
+    "url": "https://www.federalreserve.gov/newsevents/speech/waller20240222a.htm",
+    "filepath": "./data/fed_speeches\\2024\\20240222_What\u00e2__s_the_Rush_.txt",
+    "word_count": 2737
+  },
+  {
+    "year": "2024",
+    "date": "2024-02-22",
+    "title": "Sources of Uncertainty in the Short Run and the Long Run",
+    "speaker": "Governor Lisa D. Cook",
+    "location": "An official website of the United States Government",
+    "url": "https://www.federalreserve.gov/newsevents/speech/cook20240222a.htm",
+    "filepath": "./data/fed_speeches\\2024\\20240222_Sources_of_Uncertainty_in_the_.txt",
+    "word_count": 531
+  },
+  {
+    "year": "2024",
+    "date": "2024-02-22",
+    "title": "Is This Time Different? Recent Monetary Policy Cycles in Retrospect",
+    "speaker": "Vice Chair Philip N. Jefferson",
+    "location": "An official website of the United States Government",
+    "url": "https://www.federalreserve.gov/newsevents/speech/jefferson20240222a.htm",
+    "filepath": "./data/fed_speeches\\2024\\20240222_Is_This_Time_Different__Recent.txt",
+    "word_count": 2490
+  },
+  {
+    "year": "2024",
+    "date": "2024-02-16",
+    "title": "Supervision with Speed, Force, and Agility",
+    "speaker": "Vice Chair for Supervision Michael S. Barr",
+    "location": "An official website of the United States Government",
+    "url": "https://www.federalreserve.gov/newsevents/speech/barr20240216a.htm",
+    "filepath": "./data/fed_speeches\\2024\\20240216_Supervision_with_Speed__Force_.txt",
+    "word_count": 2943
+  },
+  {
+    "year": "2024",
+    "date": "2024-02-15",
+    "title": "The Dollar's International Role",
+    "speaker": "Governor Christopher J. Waller",
+    "location": "An official website of the United States Government",
+    "url": "https://www.federalreserve.gov/newsevents/speech/waller20240215a.htm",
+    "filepath": "./data/fed_speeches\\2024\\20240215_The_Dollar_s_International_Rol.txt",
+    "word_count": 29
+  },
+  {
+    "year": "2024",
+    "date": "2024-02-15",
+    "title": "Advancing Cross-Border Payments and Financial Inclusion",
+    "speaker": "Governor Michelle W. Bowman",
+    "location": "An official website of the United States Government",
+    "url": "https://www.federalreserve.gov/newsevents/speech/bowman20240215a.htm",
+    "filepath": "./data/fed_speeches\\2024\\20240215_Advancing_Cross-Border_Payment.txt",
+    "word_count": 2481
+  },
+  {
+    "year": "2024",
+    "date": "2024-02-14",
+    "title": "The Intersection of Monetary Policy, Market Functioning, and Liquidity Risk Management",
+    "speaker": "Vice Chair for Supervision Michael S. Barr",
+    "location": "An official website of the United States Government",
+    "url": "https://www.federalreserve.gov/newsevents/speech/barr20240214a.htm",
+    "filepath": "./data/fed_speeches\\2024\\20240214_The_Intersection_of_Monetary_P.txt",
+    "word_count": 2337
+  },
+  {
+    "year": "2024",
+    "date": "2024-02-12",
+    "title": "Defining a Bank",
+    "speaker": "Governor Michelle W. Bowman",
+    "location": "An official website of the United States Government",
+    "url": "https://www.federalreserve.gov/newsevents/speech/bowman20240212a.htm",
+    "filepath": "./data/fed_speeches\\2024\\20240212_Defining_a_Bank.txt",
+    "word_count": 3065
+  },
+  {
+    "year": "2024",
+    "date": "2024-02-07",
+    "title": "Supporting Entrepreneurship & Small Businesses",
+    "speaker": "Governor Michelle W. Bowman",
+    "location": "An official website of the United States Government",
+    "url": "https://www.federalreserve.gov/newsevents/speech/bowman20240207a.htm",
+    "filepath": "./data/fed_speeches\\2024\\20240207_Supporting_Entrepreneurship___.txt",
+    "word_count": 1544
+  },
+  {
+    "year": "2024",
+    "date": "2024-02-07",
+    "title": "The Outlook for the Economy and Monetary Policy",
+    "speaker": "Governor Adriana D. Kugler",
+    "location": "An official website of the United States Government",
+    "url": "https://www.federalreserve.gov/newsevents/speech/kugler20240207a.htm",
+    "filepath": "./data/fed_speeches\\2024\\20240207_The_Outlook_for_the_Economy_an.txt",
+    "word_count": 549
+  },
+  {
+    "year": "2024",
+    "date": "2024-02-02",
+    "title": "The Future of Banking",
+    "speaker": "Governor Michelle W. Bowman",
+    "location": "An official website of the United States Government",
+    "url": "https://www.federalreserve.gov/newsevents/speech/bowman20240202a.htm",
+    "filepath": "./data/fed_speeches\\2024\\20240202_The_Future_of_Banking.txt",
+    "word_count": 219
+  },
+  {
+    "year": "2024",
+    "date": "2024-01-17",
+    "title": "Opening Remarks",
+    "speaker": "Vice Chair for Supervision Michael S. Barr",
+    "location": "An official website of the United States Government",
+    "url": "https://www.federalreserve.gov/newsevents/speech/barr20240117a.htm",
+    "filepath": "./data/fed_speeches\\2024\\20240117_Opening_Remarks.txt",
+    "word_count": 835
+  },
+  {
+    "year": "2024",
+    "date": "2024-01-17",
+    "title": "The Path Forward for Bank Capital Reform",
+    "speaker": "Governor Michelle W. Bowman",
+    "location": "An official website of the United States Government",
+    "url": "https://www.federalreserve.gov/newsevents/speech/bowman20240117a.htm",
+    "filepath": "./data/fed_speeches\\2024\\20240117_The_Path_Forward_for_Bank_Capi.txt",
+    "word_count": 2835
+  },
+  {
+    "year": "2024",
+    "date": "2024-01-16",
+    "title": "Almost as Good as It Gets\u00e2\u0080\u00a6But Will It Last?",
+    "speaker": "Governor Christopher J. Waller",
+    "location": "An official website of the United States Government",
+    "url": "https://www.federalreserve.gov/newsevents/speech/waller20240116a.htm",
+    "filepath": "./data/fed_speeches\\2024\\20240116_Almost_as_Good_as_It_Gets\u00e2__Bu.txt",
+    "word_count": 2671
+  },
+  {
+    "year": "2024",
+    "date": "2024-01-08",
+    "title": "New Year\u00e2\u0080\u0099s Resolutions for Bank Regulatory Policymakers",
+    "speaker": "Governor Michelle W. Bowman",
+    "location": "An official website of the United States Government",
+    "url": "https://www.federalreserve.gov/newsevents/speech/bowman20240108a.htm",
+    "filepath": "./data/fed_speeches\\2024\\20240108_New_Year\u00e2__s_Resolutions_for_B.txt",
+    "word_count": 3719
+  },
+  {
+    "year": "2025",
+    "date": "2025-05-03",
+    "title": "Four Guides for the Journey Ahead",
+    "speaker": "Governor Lisa D. Cook",
+    "location": "An official website of the United States Government",
+    "url": "https://www.federalreserve.gov/newsevents/speech/cook20250503a.htm",
+    "filepath": "./data/fed_speeches\\2025\\20250503_Four_Guides_for_the_Journey_Ah.txt",
+    "word_count": 1499
+  },
+  {
+    "year": "2025",
+    "date": "2025-04-23",
+    "title": "Welcoming Remarks",
+    "speaker": "Governor Christopher J. Waller",
+    "location": "An official website of the United States Government",
+    "url": "https://www.federalreserve.gov/newsevents/speech/waller20250423a.htm",
+    "filepath": "./data/fed_speeches\\2025\\20250423_Welcoming_Remarks.txt",
+    "word_count": 561
+  },
+  {
+    "year": "2025",
+    "date": "2025-04-22",
+    "title": "Transmission of Monetary Policy",
+    "speaker": "Governor Adriana D. Kugler",
+    "location": "An official website of the United States Government",
+    "url": "https://www.federalreserve.gov/newsevents/speech/kugler20250422a.htm",
+    "filepath": "./data/fed_speeches\\2025\\20250422_Transmission_of_Monetary_Polic.txt",
+    "word_count": 2828
+  },
+  {
+    "year": "2025",
+    "date": "2025-04-22",
+    "title": "Economic Mobility and the Dual Mandate",
+    "speaker": "Vice Chair Philip N. Jefferson",
+    "location": "An official website of the United States Government",
+    "url": "https://www.federalreserve.gov/newsevents/speech/jefferson20250422a.htm",
+    "filepath": "./data/fed_speeches\\2025\\20250422_Economic_Mobility_and_the_Dual.txt",
+    "word_count": 2444
+  },
+  {
+    "year": "2025",
+    "date": "2025-04-17",
+    "title": "Deepfakes and the AI Arms Race in Bank Cybersecurity",
+    "speaker": "Governor Michael S. Barr",
+    "location": "An official website of the United States Government",
+    "url": "https://www.federalreserve.gov/newsevents/speech/barr20250417a.htm",
+    "filepath": "./data/fed_speeches\\2025\\20250417_Deepfakes_and_the_AI_Arms_Race.txt",
+    "word_count": 1695
+  },
+  {
+    "year": "2025",
+    "date": "2025-04-16",
+    "title": "Economic Outlook",
+    "speaker": "Chair Jerome H. Powell",
+    "location": "An official website of the United States Government",
+    "url": "https://www.federalreserve.gov/newsevents/speech/powell20250416a.htm",
+    "filepath": "./data/fed_speeches\\2025\\20250416_Economic_Outlook.txt",
+    "word_count": 849
+  },
+  {
+    "year": "2025",
+    "date": "2025-04-15",
+    "title": "2025 Distinguished Alumna Award Acceptance Remarks",
+    "speaker": "Governor Lisa D. Cook",
+    "location": "An official website of the United States Government",
+    "url": "https://www.federalreserve.gov/newsevents/speech/cook20250415a.htm",
+    "filepath": "./data/fed_speeches\\2025\\20250415_2025_Distinguished_Alumna_Awar.txt",
+    "word_count": 1406
+  },
+  {
+    "year": "2025",
+    "date": "2025-04-14",
+    "title": "A Tale of Two Outlooks",
+    "speaker": "Governor Christopher J. Waller",
+    "location": "An official website of the United States Government",
+    "url": "https://www.federalreserve.gov/newsevents/speech/waller20250414a.htm",
+    "filepath": "./data/fed_speeches\\2025\\20250414_A_Tale_of_Two_Outlooks.txt",
+    "word_count": 1237
+  },
+  {
+    "year": "2025",
+    "date": "2025-04-07",
+    "title": "Inflation Dynamics and the Phillips Curve",
+    "speaker": "Governor Adriana D. Kugler",
+    "location": "An official website of the United States Government",
+    "url": "https://www.federalreserve.gov/newsevents/speech/kugler20250407a.htm",
+    "filepath": "./data/fed_speeches\\2025\\20250407_Inflation_Dynamics_and_the_Phi.txt",
+    "word_count": 121
+  },
+  {
+    "year": "2025",
+    "date": "2025-04-04",
+    "title": "AI, Fintechs, and Banks",
+    "speaker": "Governor Michael S. Barr",
+    "location": "An official website of the United States Government",
+    "url": "https://www.federalreserve.gov/newsevents/speech/barr20250404a.htm",
+    "filepath": "./data/fed_speeches\\2025\\20250404_AI__Fintechs__and_Banks.txt",
+    "word_count": 2003
+  },
+  {
+    "year": "2025",
+    "date": "2025-04-04",
+    "title": "Economic Outlook",
+    "speaker": "Chair Jerome H. Powell",
+    "location": "An official website of the United States Government",
+    "url": "https://www.federalreserve.gov/newsevents/speech/powell20250404a.htm",
+    "filepath": "./data/fed_speeches\\2025\\20250404_Economic_Outlook.txt",
+    "word_count": 914
+  },
+  {
+    "year": "2025",
+    "date": "2025-04-03",
+    "title": "The Economic Outlook and Path of Policy",
+    "speaker": "Governor Lisa D. Cook",
+    "location": "An official website of the United States Government",
+    "url": "https://www.federalreserve.gov/newsevents/speech/cook20250403a.htm",
+    "filepath": "./data/fed_speeches\\2025\\20250403_The_Economic_Outlook_and_Path_.txt",
+    "word_count": 4555
+  },
+  {
+    "year": "2025",
+    "date": "2025-04-03",
+    "title": "U.S. Economic Outlook and Central Bank Communications",
+    "speaker": "Vice Chair Philip N. Jefferson",
+    "location": "An official website of the United States Government",
+    "url": "https://www.federalreserve.gov/newsevents/speech/jefferson20250403a.htm",
+    "filepath": "./data/fed_speeches\\2025\\20250403_U_S__Economic_Outlook_and_Cent.txt",
+    "word_count": 604
+  },
+  {
+    "year": "2025",
+    "date": "2025-04-02",
+    "title": "Inflation Expectations and Monetary Policymaking",
+    "speaker": "Governor Adriana D. Kugler",
+    "location": "An official website of the United States Government",
+    "url": "https://www.federalreserve.gov/newsevents/speech/kugler20250402a.htm",
+    "filepath": "./data/fed_speeches\\2025\\20250402_Inflation_Expectations_and_Mon.txt",
+    "word_count": 3521
+  },
+  {
+    "year": "2025",
+    "date": "2025-03-25",
+    "title": "Latinos, Entrepreneurs, and the U.S. Economy",
+    "speaker": "Governor Adriana D. Kugler",
+    "location": "An official website of the United States Government",
+    "url": "https://www.federalreserve.gov/newsevents/speech/kugler20250325a.htm",
+    "filepath": "./data/fed_speeches\\2025\\20250325_Latinos__Entrepreneurs__and_th.txt",
+    "word_count": 1817
+  },
+  {
+    "year": "2025",
+    "date": "2025-03-24",
+    "title": "Helping Small Businesses Reach Their Potential",
+    "speaker": "Governor Michael S. Barr",
+    "location": "An official website of the United States Government",
+    "url": "https://www.federalreserve.gov/newsevents/speech/barr20250324a.htm",
+    "filepath": "./data/fed_speeches\\2025\\20250324_Helping_Small_Businesses_Reach.txt",
+    "word_count": 1574
+  },
+  {
+    "year": "2025",
+    "date": "2025-03-21",
+    "title": "Statement by Governor Christopher J. Waller",
+    "speaker": "Governor Christopher J. Waller",
+    "location": "An official website of the United States Government",
+    "url": "https://www.federalreserve.gov/newsevents/speech/waller20250321a.htm",
+    "filepath": "./data/fed_speeches\\2025\\20250321_Statement_by_Governor_Christop.txt",
+    "word_count": 307
+  },
+  {
+    "year": "2025",
+    "date": "2025-03-07",
+    "title": "Economic Outlook",
+    "speaker": "Chair Jerome H. Powell",
+    "location": "An official website of the United States Government",
+    "url": "https://www.federalreserve.gov/newsevents/speech/powell20250307a.htm",
+    "filepath": "./data/fed_speeches\\2025\\20250307_Economic_Outlook.txt",
+    "word_count": 946
+  },
+  {
+    "year": "2025",
+    "date": "2025-03-07",
+    "title": "The Rebalancing of Labor Markets across the World",
+    "speaker": "Governor Adriana D. Kugler",
+    "location": "An official website of the United States Government",
+    "url": "https://www.federalreserve.gov/newsevents/speech/kugler20250307a.htm",
+    "filepath": "./data/fed_speeches\\2025\\20250307_The_Rebalancing_of_Labor_Marke.txt",
+    "word_count": 3245
+  },
+  {
+    "year": "2025",
+    "date": "2025-03-07",
+    "title": "Remarks on \"Monetary Policy Transmission to Real Activity\" and the Recent Experience",
+    "speaker": "Governor Michelle W. Bowman",
+    "location": "An official website of the United States Government",
+    "url": "https://www.federalreserve.gov/newsevents/speech/bowman20250307a.htm",
+    "filepath": "./data/fed_speeches\\2025\\20250307_Remarks_on__Monetary_Policy_Tr.txt",
+    "word_count": 2760
+  },
+  {
+    "year": "2025",
+    "date": "2025-02-27",
+    "title": "Community Banking",
+    "speaker": "Governor Michelle W. Bowman",
+    "location": "An official website of the United States Government",
+    "url": "https://www.federalreserve.gov/newsevents/speech/bowman20250227a.htm",
+    "filepath": "./data/fed_speeches\\2025\\20250227_Community_Banking.txt",
+    "word_count": 1178
+  },
+  {
+    "year": "2025",
+    "date": "2025-02-27",
+    "title": "Promoting Responsible Innovation through the Novel Activities Program",
+    "speaker": "Vice Chair for Supervision Michael S. Barr",
+    "location": "An official website of the United States Government",
+    "url": "https://www.federalreserve.gov/newsevents/speech/barr20250227a.htm",
+    "filepath": "./data/fed_speeches\\2025\\20250227_Promoting_Responsible_Innovati.txt",
+    "word_count": 1550
+  },
+  {
+    "year": "2025",
+    "date": "2025-02-25",
+    "title": "Managing Financial Crises",
+    "speaker": "Vice Chair for Supervision Michael S. Barr",
+    "location": "An official website of the United States Government",
+    "url": "https://www.federalreserve.gov/newsevents/speech/barr20250225a.htm",
+    "filepath": "./data/fed_speeches\\2025\\20250225_Managing_Financial_Crises.txt",
+    "word_count": 3586
+  },
+  {
+    "year": "2025",
+    "date": "2025-02-21",
+    "title": "Reading between the Lines? Textual Analysis of Central Bank Communications",
+    "speaker": "Vice Chair Philip N. Jefferson",
+    "location": "An official website of the United States Government",
+    "url": "https://www.federalreserve.gov/newsevents/speech/jefferson20250221a.htm",
+    "filepath": "./data/fed_speeches\\2025\\20250221_Reading_between_the_Lines__Tex.txt",
+    "word_count": 2764
+  },
+  {
+    "year": "2025",
+    "date": "2025-02-20",
+    "title": "Navigating Inflation Waves: A Phillips Curve Perspective",
+    "speaker": "Governor Adriana D. Kugler",
+    "location": "An official website of the United States Government",
+    "url": "https://www.federalreserve.gov/newsevents/speech/kugler20250220a.htm",
+    "filepath": "./data/fed_speeches\\2025\\20250220_Navigating_Inflation_Waves__A_.txt",
+    "word_count": 1259
+  },
+  {
+    "year": "2025",
+    "date": "2025-02-20",
+    "title": "Risks and Challenges for Bank Regulation and Supervision",
+    "speaker": "Vice Chair for Supervision Michael S. Barr",
+    "location": "An official website of the United States Government",
+    "url": "https://www.federalreserve.gov/newsevents/speech/barr20250220a.htm",
+    "filepath": "./data/fed_speeches\\2025\\20250220_Risks_and_Challenges_for_Bank_.txt",
+    "word_count": 5213
+  },
+  {
+    "year": "2025",
+    "date": "2025-02-19",
+    "title": "How Healthy are U.S. Households\u00e2\u0080\u0099 Balance Sheets?",
+    "speaker": "Vice Chair Philip N. Jefferson",
+    "location": "An official website of the United States Government",
+    "url": "https://www.federalreserve.gov/newsevents/speech/jefferson20250219a.htm",
+    "filepath": "./data/fed_speeches\\2025\\20250219_How_Healthy_are_U_S__Household.txt",
+    "word_count": 1060
+  },
+  {
+    "year": "2025",
+    "date": "2025-02-18",
+    "title": "Artificial Intelligence:  Hypothetical Scenarios for the Future",
+    "speaker": "Vice Chair for Supervision Michael S. Barr",
+    "location": "An official website of the United States Government",
+    "url": "https://www.federalreserve.gov/newsevents/speech/barr20250218a.htm",
+    "filepath": "./data/fed_speeches\\2025\\20250218_Artificial_Intelligence___Hypo.txt",
+    "word_count": 2538
+  },
+  {
+    "year": "2025",
+    "date": "2025-02-17",
+    "title": "Disinflation Progress Uneven but Still on Track Rates Cuts on Track as Well",
+    "speaker": "Governor Christopher J. Waller",
+    "location": "An official website of the United States Government",
+    "url": "https://www.federalreserve.gov/newsevents/speech/waller20250217a.htm",
+    "filepath": "./data/fed_speeches\\2025\\20250217_Disinflation_Progress_Uneven_b.txt",
+    "word_count": 2581
+  },
+  {
+    "year": "2025",
+    "date": "2025-02-17",
+    "title": "Brief Remarks on the Economy and Accountability in Supervision, Applications, and Regulation",
+    "speaker": "Governor Michelle W. Bowman",
+    "location": "An official website of the United States Government",
+    "url": "https://www.federalreserve.gov/newsevents/speech/bowman20250217a.htm",
+    "filepath": "./data/fed_speeches\\2025\\20250217_Brief_Remarks_on_the_Economy_a.txt",
+    "word_count": 5949
+  },
+  {
+    "year": "2025",
+    "date": "2025-02-12",
+    "title": "Reflections on a Maturing Stablecoin Market",
+    "speaker": "Governor Christopher J. Waller",
+    "location": "An official website of the United States Government",
+    "url": "https://www.federalreserve.gov/newsevents/speech/waller20250212a.htm",
+    "filepath": "./data/fed_speeches\\2025\\20250212_Reflections_on_a_Maturing_Stab.txt",
+    "word_count": 2612
+  },
+  {
+    "year": "2025",
+    "date": "2025-02-05",
+    "title": "Bank Regulation in 2025 and Beyond",
+    "speaker": "Governor Michelle W. Bowman",
+    "location": "An official website of the United States Government",
+    "url": "https://www.federalreserve.gov/newsevents/speech/bowman20250205a.htm",
+    "filepath": "./data/fed_speeches\\2025\\20250205_Bank_Regulation_in_2025_and_Be.txt",
+    "word_count": 3317
+  },
+  {
+    "year": "2025",
+    "date": "2025-02-07",
+    "title": "Entrepreneurship and Aggregate Productivity",
+    "speaker": "Governor Adriana D. Kugler",
+    "location": "An official website of the United States Government",
+    "url": "https://www.federalreserve.gov/newsevents/speech/kugler20250207a.htm",
+    "filepath": "./data/fed_speeches\\2025\\20250207_Entrepreneurship_and_Aggregate.txt",
+    "word_count": 2290
+  },
+  {
+    "year": "2025",
+    "date": "2025-02-05",
+    "title": "Bank Regulation in 2025 and Beyond",
+    "speaker": "Governor Michelle W. Bowman",
+    "location": "An official website of the United States Government",
+    "url": "https://www.federalreserve.gov/newsevents/speech/bowman20250205a.htm",
+    "filepath": "./data/fed_speeches\\2025\\20250205_Bank_Regulation_in_2025_and_Be.txt",
+    "word_count": 3317
+  },
+  {
+    "year": "2025",
+    "date": "2025-02-05",
+    "title": "Do Non-inflationary Economic Expansions Promote Shared Prosperity? Evidence from the U.S. Labor Market",
+    "speaker": "Vice Chair Philip N. Jefferson",
+    "location": "An official website of the United States Government",
+    "url": "https://www.federalreserve.gov/newsevents/speech/jefferson20250205a.htm",
+    "filepath": "./data/fed_speeches\\2025\\20250205_Do_Non-inflationary_Economic_E.txt",
+    "word_count": 3015
+  },
+  {
+    "year": "2025",
+    "date": "2025-02-05",
+    "title": "Bank Regulation in 2025 and Beyond",
+    "speaker": "Governor Michelle W. Bowman",
+    "location": "An official website of the United States Government",
+    "url": "https://www.federalreserve.gov/newsevents/speech/bowman20250205a.htm",
+    "filepath": "./data/fed_speeches\\2025\\20250205_Bank_Regulation_in_2025_and_Be.txt",
+    "word_count": 3317
+  },
+  {
+    "year": "2025",
+    "date": "2025-02-04",
+    "title": "U.S. Economic Outlook and Monetary Policy",
+    "speaker": "Vice Chair Philip N. Jefferson",
+    "location": "An official website of the United States Government",
+    "url": "https://www.federalreserve.gov/newsevents/speech/jefferson20250204a.htm",
+    "filepath": "./data/fed_speeches\\2025\\20250204_U_S__Economic_Outlook_and_Mone.txt",
+    "word_count": 2298
+  },
+  {
+    "year": "2025",
+    "date": "2025-01-31",
+    "title": "Brief Remarks on the Economy, and Perspective on Mutual and Community Banks",
+    "speaker": "Governor Michelle W. Bowman",
+    "location": "An official website of the United States Government",
+    "url": "https://www.federalreserve.gov/newsevents/speech/bowman20250131a.htm",
+    "filepath": "./data/fed_speeches\\2025\\20250131_Brief_Remarks_on_the_Economy__.txt",
+    "word_count": 5286
+  },
+  {
+    "year": "2025",
+    "date": "2025-01-09",
+    "title": "Reflections on 2024: Monetary Policy, Economic Performance, and Lessons for Banking Regulation",
+    "speaker": "Governor Michelle W. Bowman",
+    "location": "An official website of the United States Government",
+    "url": "https://www.federalreserve.gov/newsevents/speech/bowman20250109a.htm",
+    "filepath": "./data/fed_speeches\\2025\\20250109_Reflections_on_2024__Monetary_.txt",
+    "word_count": 3968
+  },
+  {
+    "year": "2025",
+    "date": "2025-01-08",
+    "title": "Challenges Facing Central Bankers",
+    "speaker": "Governor Christopher J. Waller",
+    "location": "An official website of the United States Government",
+    "url": "https://www.federalreserve.gov/newsevents/speech/waller20250108a.htm",
+    "filepath": "./data/fed_speeches\\2025\\20250108_Challenges_Facing_Central_Bank.txt",
+    "word_count": 2936
+  },
+  {
+    "year": "2025",
+    "date": "2025-01-06",
+    "title": "An Assessment of the Economy and Financial Stability",
+    "speaker": "Governor Lisa D. Cook",
+    "location": "An official website of the United States Government",
+    "url": "https://www.federalreserve.gov/newsevents/speech/cook20250106a.htm",
+    "filepath": "./data/fed_speeches\\2025\\20250106_An_Assessment_of_the_Economy_a.txt",
+    "word_count": 3558
+  }
+]

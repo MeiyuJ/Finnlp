@@ -1,0 +1,31 @@
+August 23, 2024
+
+Chair Jerome H. Powell
+
+At âReassessing the Effectiveness and Transmission of Monetary Policy,â an economic symposium sponsored by the Federal Reserve Bank of Kansas City, Jackson Hole, Wyoming
+
+Four and a half years after COVID-19's arrival, the worst of the pandemic-related economic distortions are fading. Inflation has declined significantly. The labor market is no longer overheated, and conditions are now less tight than those that prevailed before the pandemic. Supply constraints have normalized. And the balance of the risks to our two mandates has changed. Our objective has been to restore price stability while maintaining a strong labor market, avoiding the sharp increases in unemployment that characterized earlier disinflationary episodes when inflation expectations were less well anchored. While the task is not complete, we have made a good deal of progress toward that outcome.
+
+Today, I will begin by addressing the current economic situation and the path ahead for monetary policy. I will then turn to a discussion of economic events since the pandemic arrived, exploring why inflation rose to levels not seen in a generation, and why it has fallen so much while unemployment has remained low.
+
+Near-Term Outlook for Policy Let's begin with the current situation and the near-term outlook for policy.
+
+For much of the past three years, inflation ran well above our 2 percent goal, and labor market conditions were extremely tight. The Federal Open Market Committee's (FOMC) primary focus has been on bringing down inflation, and appropriately so. Prior to this episode, most Americans alive today had not experienced the pain of high inflation for a sustained period. Inflation brought substantial hardship, especially for those least able to meet the higher costs of essentials like food, housing, and transportation. High inflation triggered stress and a sense of unfairness that linger today. 1
+
+Our restrictive monetary policy helped restore balance between aggregate supply and demand, easing inflationary pressures and ensuring that inflation expectations remained well anchored. Inflation is now much closer to our objective, with prices having risen 2.5 percent over the past 12 months ( figure 1 ). 2 After a pause earlier this year, progress toward our 2 percent objective has resumed. My confidence has grown that inflation is on a sustainable path back to 2 percent.
+
+Turning to employment, in the years just prior to the pandemic, we saw the significant benefits to society that can come from a long period of strong labor market conditions: low unemployment, high participation, historically low racial employment gaps, and, with inflation low and stable, healthy real wage gains that were increasingly concentrated among those with lower incomes. 3
+
+Today, the labor market has cooled considerably from its formerly overheated state. The unemployment rate began to rise over a year ago and is now at 4.3 percentâstill low by historical standards, but almost a full percentage point above its level in early 2023 ( figure 2 ). Most of that increase has come over the past six months. So far, rising unemployment has not been the result of elevated layoffs, as is typically the case in an economic downturn. Rather, the increase mainly reflects a substantial increase in the supply of workers and a slowdown from the previously frantic pace of hiring. Even so, the cooling in labor market conditions is unmistakable. Job gains remain solid but have slowed this year. 4 Job vacancies have fallen, and the ratio of vacancies to unemployment has returned to its pre-pandemic range. The hiring and quits rates are now below the levels that prevailed in 2018 and 2019. Nominal wage gains have moderated. All told, labor market conditions are now less tight than just before the pandemic in 2019âa year when inflation ran below 2 percent. It seems unlikely that the labor market will be a source of elevated inflationary pressures anytime soon. We do not seek or welcome further cooling in labor market conditions.
+
+Overall, the economy continues to grow at a solid pace. But the inflation and labor market data show an evolving situation. The upside risks to inflation have diminished. And the downside risks to employment have increased. As we highlighted in our last FOMC statement, we are attentive to the risks to both sides of our dual mandate.
+
+The time has come for policy to adjust. The direction of travel is clear, and the timing and pace of rate cuts will depend on incoming data, the evolving outlook, and the balance of risks.
+
+We will do everything we can to support a strong labor market as we make further progress toward price stability. With an appropriate dialing back of policy restraint, there is good reason to think that the economy will get back to 2 percent inflation while maintaining a strong labor market. The current level of our policy rate gives us ample room to respond to any risks we may face, including the risk of unwelcome further weakening in labor market conditions.
+
+The Rise and Fall of Inflation Let's now turn to the questions of why inflation rose, and why it has fallen so significantly even as unemployment has remained low. There is a growing body of research on these questions, and this is a good time for this discussion. 5 It is, of course, too soon to make definitive assessments. This period will be analyzed and debated long after we are gone.
+
+The arrival of the COVID-19 pandemic led quickly to shutdowns in economies around the world. It was a time of radical uncertainty and severe downside risks. As so often happens in times of crisis, Americans adapted and innovated. Governments responded with extraordinary force, especially in the U.S. Congress unanimously passed the CARES Act. At the Fed, we used our powers to an unprecedented extent to stabilize the financial system and help stave off an economic depression.
+
+After a historically deep but brief recession, in mid-2020 the economy began to grow again. As the risks of a severe, extended downturn receded, and as the economy reopened, we faced the risk of replaying the painfully slow recovery that followed the Global Financial Crisis.
